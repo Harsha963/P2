@@ -1,3 +1,5 @@
+image::IITD.png[align="center", style="vertical-align: middle;"]
+
 = Tribe D: Daringbaaz | Project DoXFroY | Requirements + Specifications + Design + Closure
 :authors: Shubham Kumar, Harshita Badiyasar, Hemali Priyadarshi, Harsha Patnala
 :lang: en
@@ -31,7 +33,7 @@ Sl. No.,Index,Value,Range
 == Team Details
 
 .Detail of team members and their responsibilities
-[cols=">2, <7, 4a, 7a, 5a,2a",options="header",%autowidth.stretch,format=csv]
+[cols=">2, <7, 5a, 7a, 5a,2a",options="header",%autowidth.stretch,format=csv]
 
 |===
 
