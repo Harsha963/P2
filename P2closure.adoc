@@ -1,0 +1,231 @@
+= Tribe D: Daringbaaz | Project DoXFroY | Requirements + Specifications + Design + Closure
+
+:authors: Shubham Kumar, Harshita Badiyasar, Hemali Priyadarshi
+:lang: en
+:toc:
+:sectids:
+:sectnums: all
+:stem: asciimath
+
+
+== Document Statistics
+
+.Readability indices value
+[cols=">2, <7,3a, 4a",options="header",%autowidth.stretch,format=csv]
+|===
+
+Sl. No.,Index,Value,Range
+
+1,Gunning Fog,0,0-20
+2,Flesch Reading Ease,0,0-100
+3,Coleman-Liau Index,0,0-(17+)
+4,SMOG Index,0,3-
+
+|===
+
+
+
+== Team Details
+
+.Detail of team members and their responsibilities
+
+[cols=">2, <7, 4a, 7a, 5a",options="header",%autowidth.stretch,format=csv]
+
+|===
+
+Sl. No.,Name,Entry,Email,Designation
+
+1,Shubham Kumar,2020EE30627,ee3200627@iitd.ac.in,Tribe Coordinator
+2,Harshita Badiyasar,2020MT10807,mt1200807@iitd.ac.in,Sub-Coordinator
+3,Hemali Priyadarshi,2020EE30597,ee3200597@iitd.ac.in,Sub-Coordinator
+4,Shiva Kumar Vallala,2020MT10848,mt1200848@iitd.ac.in,Sub-Coordinator
+
+5,Anmol S,2020EE10471,ee1200471@iitd.ac.in,Research
+6,Harshita Kurre,2020EE30596,ee3200596@iitd.ac.in,Research
+7,Kartikey Agarwal,2020EE10505,ee1200505@iitd.ac.in,Research
+8,Mannepalli Chandra Sekhar,2020MT10818,mt1200818@iitd.ac.in,Research
+9,Nishant Agarwal,2020MT10828,mt1200828@iitd.ac.in,Research
+10,Priyanshu Sharma,2020MT10678,mt1200678@iitd.ac.in,Research
+11,Rama Bharti,2020MT10834,mt1200834@iitd.ac.in,Research
+12,Saksham Singh,2020MT10841,mt1200841@iitd.ac.in,Research
+13,Sania Goyal,2020MT10842,mt1200842@iitd.ac.in,Research
+14,Sanskriti Jain,2020MT60890,mt6200890@iitd.ac.in,Research
+15,Shivang Agarwal,2020MT10849,mt1200849@iitd.ac.in,Research
+16,Sheetal,2020MT10847,mt1200847@iitd.ac.in,Research
+17,Simran Malik,2020MT10854,mt1200854@iitd.ac.in,Research
+18,Subhan Akhtar,2019EE10533,ee1190533@iitd.ac.in,Researchpra
+19,Sunpreet Singh,2020MT10857,mt1200857@iitd.ac.in,Research
+20,Volla Jayathi,2020MT60897,mt6200897@iitd.ac.in,Research
+21,Yashwant Singh Kaurav,2020MT10864,mt1200864@iitd.ac.in,Research
+22,Aditya Agrawal,2020EE30573,ee3200573@iitd.ac.in,Ideation
+23,Bhavneek Singh,2020EE10482,ee1200482@iitd.ac.in,Ideation
+24,Dheekshith Kumar,2020MT60876,mt6200876@iitd.ac.in,Ideation
+25,Divyanshi Thaakur,2020EE11015,ee1201015@iitd.ac.in,Ideation
+26,Harsh Kumar,2020MT60879,mt6200879@iitd.ac.in,Ideation
+27,Harsha Patnala,2020MT10846,mt1200846@iitd.ac.in,Ideation
+28,Harshit Goyal,2020MT10806,mt1200806@iitd.ac.in,Ideation
+29,Ishaan Singhal,2019EE30574,ee3190574@iitd.ac.in,Ideation
+30,Jaya Teja,2020MT60874,mt6200874@iitd.ac.in,Ideation
+31,Keshav Ranjan,2020EE30602,ee3200602@iitd.ac.in,Ideation
+32,Kishan Kumar Jangde,2020EE10506,ee1200506@iitd.ac.in,Ideation
+33,Neeraj Sharma,2020MT60885,mt6200885@iitd.ac.in,Ideation
+34,Prashant Kumar,2020EE10525,ee1200525@iitd.ac.in,Ideation
+35,Praveen Singh,2020EE30616,ee3200616@iitd.ac.in,Ideation
+36,Prisha Jain,2020MT60886,mt6200886@iitd.ac.in,Ideation
+37,Priyansh Agrawal,2019EE30591,ee3190591@iitd.ac.in,Ideation
+38,Raparthi Akshita,2020EE10538,ee1200538@iitd.ac.in,Ideation
+39,Saurabh Dudhwal,2020MT10844,mt1200844@iitd.ac.in,Ideation
+40,Shubham Kumar,2020EE10554,ee1200554@iitd.ac.in,Ideation
+41,Srikanth R,2020EE10557,ee1200557@iitd.ac.in,Ideation
+42,Varnika Bhatt,2020EE30630,ee3200630@iitd.ac.in,Ideation
+43,Yishuvendra Kumar Devangan,2020EE30635,ee3200635@iitd.ac.in,Ideation
+44,Pankaj Sharma,2020EE30610,ee3200610@ee.iitd.ac.in,Ideation
+|===
+
+== Project Workflow Design
+
+
+
+== Abstract
+In this document, we present to you some of the ideas we discussed to improve rural India, along with the requirements and specifications of each product. Some ideas we thought would be helpful are solar energy-supported water filtration systems, solar cookers, wind energy harvesting devices, and rechargeable batteries. We chose these ideas considering the requirements of people, the feasibility of these products, and the feasibility of using green energy to support these devices. The final demonstrable product we decided on is a solar energy-supported water filtration system. This is because the availability of clean drinking water is a significant problem in India. Not all villages can afford water treatment plants, mainly due to the cost of maintaining them. So we decided to reduce the cost by using solar energy. It is a one-time investment, and maintaining it is pretty simple.  Solar energy is also much cleaner than your usual conventional alternatives.  The document also explores the design and the working principle of this product including a block diagram.
+
+== Background
+ 
+== Introduction
+
+DoXFroY means *Do* anything(*X*) **Fro**m anywhere(*Y*). With the advent
+of technologies, communication, transportation, and innovation have become
+easier with time. People living in metropolitan areas are able to access
+the necessary commodities and are benefitting from it, but in stark
+contrast is the picture in rural areas where in some places electricity
+and internet technologies are yet to reach. Even in metropolitan areas,
+it is not that the living conditions of people are good at all places.
+People have to toil hard to maintain their living standards in those
+costly cities. There is a dire need for systemic level changes and
+technological innovations which will make it easier for people to do
+their work and avail the necessary services from anywhere. This solution
+should also be devised keeping in mind its sustainability. The following
+project is a step further in that direction. We are trying to find
+possible interventions and changes which would drive the future in the
+direction of making DoXFroY culture ubiquitous and sustainable.
+
+== Requirements
+
+To make the culture of the future DoXFroY, we think the following are
+the systemic changes and technological interventions which are needed:
+
+=== Rechargeable battery
+
+Electricity in rural areas of India is not present for 24x7 and the problem of power cut hinders technological adoption by the people living in those areas. People also have difficulties while working at night and have to rely on kerosene lamps and wicks for lighting their houses at night. Can we make a light bulb that is able to store energy when there is electricity and thus light up when it is dark during a power cut? The rechargeable bulb can be designed to charge from solar energy also.
+
+==== Cost Requirements
+It should be affordable to the people of low-income groups and also to the people who are below the poverty line.
+
+==== Structural Requirements
+It should be lightweight and easy to carry.
+
+==== Efficiency Requirements
+The battery should be able to light up the bulb for sufficient time to satisfy the need of people.
+
+=== Network of Health Centers
+The hospitals are concentrated in towns and it is not possible for people to approach them and they have to sometimes wait for getting necessary health services. In DoXFroY society, people should be able to avail health-related assistance and even emergency services from remote places without much delay. To make this idea a reality, a network of healthcare experts, nurses, doctors, and volunteers needs to be there spread throughout the geography of India which is a distributed network. There would be an app through which people in need of assistance would ask for help and the doctor in the vicinity of the person would get the signal and respond to it. If she comes to conclude that she needs certain blood units, medicines, vials of ointments, etc., she can contact it a nearby storehouse that will dispatch the necessary items with the help of drones to the destination upon receiving a request signal.
+
+=== Project "Paramarth"
+People need help sometimes with their work or with their chores. Old people face difficulty in getting some of their work done and might need care as they might be helpless at times with nobody to care for around them. Some people might be seeking some friend to whom they can talk and share some moments so that they do not feel lonely. If we can create a network where people can raise a help request and the potential helpers living in the vicinity might receive it and respond to it then the community would be a much better place to live in. We can give tokens to people who are helping others and one might have to expend some of them to get help. We can also provide extra tokens to old age people or to helpless people.
+
+=== Embedding QR code with important information
+A lot of times a particular chapter of a book needs to be updated and the publishers or governments have to retract all the books back and make available new books after the necessary correction. This leads this process to be practically impossible due to the complexity of the logistics involved. We can stick books with stickers containing QR codes that will contain the updated information which was meant to be transmitted. This will make the process of updating the book easier and make information updates seamless across the country.
+
+=== Biogas plant
+
+
+== Specifications
+
+== Design
+
+=== Components
+
+=== Working Principle
+The process of movement of solvent (water, in this case),  through a semipermeable membrane from the solution (unpurified water) to the pure solvent by applying excess pressure on the solution side, to overcome osmotic pressure is called Reverse Osmosis (RO). In the normal osmosis process, which is driven by chemical potential differences of the solvent, a thermodynamic parameter, the water moves from low solute concentration to high solute concentration. In the RO process, the movement is in the opposite direction. In RO desalination almost all (around 95 to 99%) dissolved salts are filtered into the rejected stream, and solar-powered RO desalination can reduce or interrupt the dependency on conventional energy fossil fuels, reduces additional costs and results in environmental safety with sustainability and a disease-free community. A solar PV module (a series connected sufficient number of solar cells to provide required standard output voltage and power) can be used to act as a power supply for operating functions for desalination, such as a booster pump to pressurise the water flow into RO desalination elements through a rack of vessels containing semi-permeable membranes.
+
+=== Block Diagram
+
+
+=== Process
+
+=== Evaluation criteria of the project
+
+=== Scope of the project
+These are the techniques that can be added to the project:
+
+UV filtration: UV filtration can be added to the project to further purify the water. UV filtration uses ultraviolet light to kill bacteria and viruses, making it an effective method for water treatment.The effectiveness of UV filtration depends on several factors, including the intensity of the UV light, the exposure time of the water to the UV light, and the water quality. The water must be pre-treated to remove any particles or debris that could block the UV light from reaching the microorganisms in the water.
+
+Pre filtration: pre-filtration techniques such as activated carbon or sediment filters, which can remove impurities like chlorine, sediment, and volatile organic compounds (VOCs) before the water enters the reverse osmosis membrane.
+
+Storage tank: incorporating a storage tank with the system can help in providing a continuous supply of purified water even when the sun is not shining.
+
+Mineralization: Reverse osmosis removes minerals from the water, which can lead to taste issues and potential health problems. Mineralization can add back the essential minerals like calcium and magnesium to improve the taste and make the water healthier to drink.
+
+pH adjustment: Reverse osmosis can also cause the water to become slightly acidic. pH adjustment can help bring the water to a more neutral level, making it more pleasant to drink and reducing the risk of corrosion in pipes.
+
+Monitoring and control system: Adding a monitoring and control system to the project can help in ensuring the proper functioning of the system. This can include sensors to measure water quality, pressure, and flow rates, as well as a control panel to adjust system settings and track performance.
+
+Remote monitoring: Remote monitoring can be added to the system to allow for real-time monitoring and control from a remote location. This can be useful in situations where the system is located in a remote or hard-to-reach area.
+
+Energy storage: Incorporating energy storage, such as batteries, can help in providing a continuous supply of purified water even when the solar power is not available. This can be particularly useful in areas with limited sunlight or during cloudy weather.
+
+Mobile unit: Designing the system as a mobile unit can allow it to be easily transported to areas where access to clean water is limited, such as disaster-stricken areas or refugee camps. This can help in providing immediate relief to those in need.
+
+== Product Development
+
+== Challenges
+Challenges:
+Reverse osmosis water purification with solar electricity can be a practical method for supplying clean drinking water in off-grid remote places. To make this approach possible and effective, though, a number of issues must be resolved. Some of these difficulties include:
+1.Energy requirements: Reverse osmosis requires a lot of energy to operate, and solar power may not always be able to supply the system with the energy it needs. The amount of energy needed can change based on the water source's quality, the system's capacity, and the surrounding conditions.
+2. Water quality: Although reverse osmosis can effectively remove a variety of pollutants, including germs and viruses, it might not be able to remove all of them. To ensure that the water satisfies the necessary quality standards, pre-treatment of the water may be necessary.
+3.Membrane fouling: Reverse osmosis systems might lose efficiency as a result of clogged membranes caused by impurities over time. In places with large concentrations of dissolved solids or organic materials, this may be a particular issue.
+4.Maintanence: Reverse osmosis systems fueled by solar must undergo routine maintenance to keep working properly. In remote locations where qualified specialists might not be easily accessible, this can be difficult.
+5.Cost: Reverse osmosis systems that run on solar energy can be pricey to construct and operate. Some groups, especially those in developing countries, may find the cost of the system to be prohibitive.
+6.Water scarcity: Reverse osmosis systems might not be a good option in places with a limited supply of water because they need a lot of water to run and maintain them.
+To ensure that solar-powered reverse osmosis systems are long-lasting and efficient in supplying clean drinking water to underserved populations, these issues must be addressed. This will take a mix of technical know-how, financial commitment, and community involvement.
+
+
+== Discussion and Future Work
+As a team, our work was related to DoXFroY because we followed a problem-solving approach that focused on the needs of specific communities. We sought to understand the challenges and problems faced by these communities and designed solutions that met their unique requirements. This approach enabled us to create impactful and sustainable solutions that were tailored to the needs of the beneficiaries.
+To make DoXFroY a reality, several actions can be taken. First, there needs to be a shift in mindset among individuals and organizations, where they prioritize the needs of the end-users or beneficiaries. This can be achieved by promoting empathy, encouraging active listening, and fostering cross-cultural understanding.
+Second, there needs to be more collaboration and partnerships between different stakeholders, including governments, non-profits, and the private sector. These partnerships can help leverage resources, expertise, and knowledge to develop more impactful and sustainable solutions.
+Third, education and training programs can be developed to promote the DoXFroY approach among individuals and organizations. This can include courses on design thinking, empathy, and human-centered design, among others.
+Finally, systemic level changes are needed to create an environment that supports the development and implementation of DoXFroY initiatives. This can include policy changes, funding mechanisms, and regulatory frameworks that prioritize social impact and innovation. By creating an enabling environment, systemic level changes can help to promote and scale the adoption of DoXFroY in different sectors and industries.
+In conclusion, making DoXFroY a reality requires a combination of individual, organizational, and systemic level changes. By adopting a DoXFroY approach, we can design and develop innovative solutions that are more effective, impactful, and sustainable, and that meet the unique needs of the communities we are trying to serve.
+
+== Conclusion
+
+== Glossary
+DoXFroY = *Do* anything(*X*) **Fro**m anywhere(*Y*)
+RO = Reverse Osmosis
+
+== References
+
+[1] Y. Wong, "_Scalable, Solar Powered Membrane-Based Water Purification Systems for Community Development in Developing Countries_", Embry-Riddle Aeronautical University - Daytona Beach.
+
+[2] S. Prakash, "_Solar Energy Based Water Purification System_", International Research Journal of Engineering and Technology, vol. 8, no. 6, pp. 3415-3419, 2021.
+
+[3] K. Dikgale, D.F. Ntobela, B.G.V. Mendes, L.K. Tartibu, T.J. Kunene, and E. Bakaya-Kyahurwa, "_Development of solar-powered water purification systems_", in Proceedings of the 9th International Conference on Appropriate Technology, Tshwane University of Technology, Pretoria, November 2020, pp. 900-919.
+
+[4] B. Sreewirote, N. Suttisinthong, and A. Ngaopitakkul, "_The Application of Solar Cells for Water Filtration System_", MATEC Web of Conferences, vol. 260, pp. 03002, 2019.
+
+[5] X. Xu, S. Ozden, N. Bizmark, C.B. Arnold, S.S. Datta, and R.D. Priestley, "_A bioinspired elastic hydrogel for solar-driven clean water purification_", Harvard Medical School Science in the News, April 2021.
+
+[6] A. Carlson, R. Kiriu, A. Nosé, C. Sugii, E. Taketa, and A. Tamai, "_Solar powered water purification system_" Mechanical Engineering Senior Theses, no. 9, Santa Clara University, 2012. [Online]. Available: https://scholarcommons.scu.edu/mech_senior/9
+
+[7] P. J. Edla, N. Sonkar, B. Gupta, and V. Kumar, "_Solar Water Purifier For Indian Villages – A Review_", in Proceedings of the International Conference on Recent Advances in Engineering and Technology (ICRAET), Jabalpur Engineering College, Jabalpur, India, March 2016, pp. 224-227.
+
+[8] J. Alward and R. Ayoub, "_Water requirements and remote arid areas: the need for small-scale desalination_", Desalination, vol. 107, pp. 131-147, 1996.
+
+[9] K. A. E. Keith and J. J. French, "_Design and testing of a remote deployable water purification system powered by solar energy_", Advances in Technology Innovation, vol. 4, no. 1, pp. 30-36, 2019
+
+[10] A. I. Wibowo and K. C. Chang, "_Provision of clean water in remote village/islet through solar energy application: case of Indonesia_", in Proceedings of the 2019 IEEE 3rd International Conference on Green Energy and Applications (ICGEA), Taiyuan, China, March 16-18, 2019, pp. 193-198
+
+[11] WHO and UNICEF, "_Progress on drinking water, sanitation and hygiene: 2017 update and SDG baselines_", WHO & UNICEF, Geneva, Switzerland, 2017
+
+[12]R. M. Dahekar, A. Farsole, K. Pusadkar, M. Saini, S. Darwai, and S. Hinge, "Water purification system powered by solar energy," in Proceedings of the 2018 International Conference on Energy, Communication, Data Analytics and Soft Computing (ICECDS), Chennai, India, February 15-17, 2018, pp. 1683-1687.
