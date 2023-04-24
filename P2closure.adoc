@@ -142,105 +142,116 @@ DoXFroY means *Do* anything(*X*) **Fro**m anywhere(*Y*). With the advent of tech
 
 To make the culture of the future DoXFroY, we think the following are the systemic changes and technological interventions which are needed:
 
-=== Rechargeable battery
+=== Ideas
 
-Electricity in rural areas of India is not present for 24x7 and the problem of power cut hinders technological adoption by the people living in those areas. People also have difficulties while working at night and have to rely on kerosene lamps and wicks for lighting their houses at night. Can we make a light bulb that is able to store energy when there is electricity and thus light up when it is dark during a power cut? The rechargeable bulb can be designed to charge from solar energy also.
+==== Solar Cooker
 
-=== Network of Health Centers
+In India's rural areas, the concept of a solar cooker might be used to offer a viable and reasonably priced method of preparing meals.  
+Remote area cooking : In isolated locations with scant or no access to power or cooking fuel, meals can be cooked using solar cookers. This may lessen the need for conventional cooking fuels like firewood, which can destroy forests and contribute to air pollution.
+ 
+Community kitchens: Hot meals might be served to people in far-off places using solar cookers. In places with no separate homes or where people live near to one another, this could be extremely helpful.
+ 
+Disaster Assistance: People afflicted by natural disasters or other situations may receive hot meals thanks to the usage of solar cookers in disaster relief initiatives. Solar cookers may be used even in places without access to electricity or gas because they don't need any additional fuel sources.
+ 
+Micro-enterprises: In isolated locations, the usage of solar cookers may present potential for micro-enterprises. Solar cookers might be used by neighborhood business owners to set up tiny eateries where they could provide hot meals or sell snacks to the locals.
+
+==== Network of Health Centers
 
 The hospitals are concentrated in towns and it is not possible for people to approach them and they have to sometimes wait for getting necessary health services. In DoXFroY society, people should be able to avail health-related assistance and even emergency services from remote places without much delay. To make this idea a reality, a network of healthcare experts, nurses, doctors, and volunteers needs to be there spread throughout the geography of India which is a distributed network. There would be an app through which people in need of assistance would ask for help and the doctor in the vicinity of the person would get the signal and respond to it. If she comes to conclude that she needs certain blood units, medicines, vials of ointments, etc., she can contact it a nearby storehouse that will dispatch the necessary items with the help of drones to the destination upon receiving a request signal.
 
 A network of healthcare workers and centers could play a crucial role in enabling people to access medical treatment from anywhere in India. Here are some possible interventions that could be implemented through such a network - 
 
-==== Telemedicine services
+===== Telemedicine services
 
 Healthcare professionals and facilities might provide telemedicine services to patients in far-off places with the use of internet access. Patients might virtually chat with medical specialists, get advice from them, and even get medicines online.
 
-==== Remote patient sensing
+===== Remote patient sensing
 
 Healthcare professionals and facilities might follow the health of patients with chronic diseases or those who require after surgery care using remote monitoring technologies. Patients might submit their health information to healthcare providers using wearable technology or other remote monitoring tools so that they can monitor the patient's status and take appropriate action if necessary.
 
-==== Mobile medical clinics
+===== Mobile medical clinics
 
 With the right tools and resources, medical personnel may go to far-flung locations in mobile clinics. These clinics could give basic medical treatment, carry out diagnostic procedures, or even perform small surgeries.
 
-==== Medical supply chain management
+===== Medical supply chain management
 
 Hospitals and other healthcare facilities might employ technology to control the flow of medical supplies and equipment. This can entail keeping track of the stock of medical equipment, ordering, and sending supplies to far-off places, and making sure that the apparatus is maintained and fixed as required.
 
 In general, a network of medical professionals and facilities might be extremely important in ensuring that residents of remote locations have access to high-quality medical treatment. Healthcare services might be provided more effectively and efficiently by utilizing technology and innovation, aiding in closing the access divide between urban and rural healthcare.
 
 
-=== Project Paramarth
+==== Project Paramarth
 
 People need help sometimes with their work or with their chores. Old people face difficulty in getting some of their work done and might need care as they might be helpless at times with nobody to care for around them. Some people might be seeking some friend to whom they can talk and share some moments so that they do not feel lonely. If we can create a network where people can raise a help request and the potential helpers living in the vicinity might receive it and respond to it then the community would be a much better place to live in. We can give tokens to people who are helping others and one might have to expend some of them to get help. We can also provide extra tokens to old age people or to helpless people.
 
-=== Grievance redressal system and crowdsourcing information from people
+==== Grievance redressal system and crowdsourcing information from people
 
 A grievance redressal system could be set up to address issues faced by citizens in accessing basic services or in using the DoXFoY initiative. This system could include a helpline number, online platform, or mobile application where citizens can register their grievances and track their progress. The system could also be integrated with government agencies or service providers to ensure that complaints are resolved in a timely and effective manner.
 
 Crowdsourcing information from citizens could help to identify the needs and concerns of people living in remote areas. This could be done through surveys, focus groups, or social media platforms. The information gathered could be used to inform the development of new services or technologies as part of the DoXFoY initiative. Also, community feedback mechanisms could be established to encourage citizen participation and engagement. This could include town hall meetings, community forums, or feedback boxes located in public places. These mechanisms could provide a platform for citizens to voice their concerns, provide feedback on existing services, and suggest new ideas for the DoXFoX initiative.
 
-=== Biogas Plant
+==== Biogas Plant
 
 The idea of a biogas plant could be used to provide sustainable energy solutions in remote areas of India. It could be beneficial in the following ways –
 
-==== Cooking fuel 
+===== Cooking fuel 
 
 Biogas plants could be used to provide cooking fuel in remote areas where there is limited or no access to electricity or cooking gas. The biogas produced from the plant could be used in stoves or burners for cooking, replacing traditional cooking fuels such as firewood or charcoal. This can help reduce deforestation and indoor air pollution.
 
-==== Electricity Generation
+===== Electricity Generation
 
 Biogas plants can also be used to generate electricity in remote areas where there is no access to the grid. The electricity generated can be used for lighting, powering appliances, or even for running small businesses. This can provide a sustainable and affordable energy source for people living in these areas.
 
-==== Waste management 
+===== Waste management 
 
 Biogas plants can be used to manage organic waste, such as food waste, animal waste, or agricultural waste. The waste is fed into the plant, where it is broken down by bacteria to produce biogas and organic fertilizer. This can help reduce the amount of waste that ends up in landfills, and provide a valuable source of fertilizer for agricultural use.
 
-==== Employment Opportunities 
+===== Employment Opportunities 
 
 The establishment and maintenance of biogas plants can create employment opportunities in rural areas. Local entrepreneurs could set up and run biogas plants, providing a valuable service to the community while also generating income.
 
-=== Rechargeable battery 
+==== Rechargeable battery 
+
+Electricity in rural areas of India is not present for 24x7 and the problem of power cut hinders technological adoption by the people living in those areas. People also have difficulties while working at night and have to rely on kerosene lamps and wicks for lighting their houses at night. Can we make a light bulb that is able to store energy when there is electricity and thus light up when it is dark during a power cut? The rechargeable bulb can be designed to charge from solar energy also.
 
 The idea of a rechargeable battery can be used in various ways as part of the DoXFoX initiative to provide sustainable and affordable energy solutions in remote areas of India. Here are some ways in which rechargeable batteries can be used - 
 
-==== Off-grid electricity
+===== Off-grid electricity
 
 Rechargeable batteries can be used to store electricity generated from renewable sources such as solar panels or wind turbines. This stored energy can then be used to power homes, appliances, or small businesses, providing a sustainable and reliable off-grid electricity solution.
 
-==== Electric vehicles
+===== Electric vehicles
 
 Rechargeable batteries can also be used in electric vehicles, providing a sustainable and clean mode of transportation. This can be particularly useful in rural areas where transportation options are limited.
 
-==== Backup power
+===== Backup power
 
 Rechargeable batteries can be used as backup power sources in case of power outages. This can be particularly useful in areas where power outages are frequent, and can help ensure that critical services such as healthcare facilities and communication networks remain operational.
 
-=== Wind energy harvesting devices
+==== Wind energy harvesting devices
 
 Small wind turbines can be installed in remote areas to generate electricity. These turbines can be used to power homes, schools, health clinics, or small businesses, providing a sustainable and reliable off-grid electricity solution. Small wind turbines can also be used in combination with other renewable energy sources such as solar panels to provide a hybrid energy system. Portable wind turbines can also be used to provide electricity in areas where there is no access to electricity, or where access is limited. These turbines can be set up in minutes and can be used to power small devices such as phones, laptops, or lamps.
 
 Wind energy can be used to power water pumps in remote areas, providing a sustainable and reliable source of water. This can be particularly useful in areas where access to clean water is limited.
 
 
-=== Embedding QR code with necessary information 
+==== Embedding QR code with necessary information 
 
-The use of QR codes as part of the DoXFoX initiative can help improve access to information and services in remote areas of India, making it easier for people to access the information they need to make informed decisions about their health, education, finances, and more. Here are some ways in which QR codes can be used - 
+The use of QR codes as part of the DoXFoY initiative can help improve access to information and services in remote areas of India, making it easier for people to access the information they need to make informed decisions about their health, education, finances, and more. Here are some ways in which QR codes can be used - 
 
-==== Healthcare information
+===== Healthcare information
 
 QR codes can be used to provide healthcare information to patients in remote areas. For example, a QR code can be embedded on a medication package, which, when scanned, provides information about the medication, dosage, side effects, and instructions for use. This can help improve patient safety and reduce the risk of medication errors.
 
-==== Agricultural information
+===== Agricultural information
 
 QR codes can be used to provide agricultural information to farmers in remote areas. For example, a QR code can be embedded on a seed package, which, when scanned, provides information about the seed, planting instructions, and recommended fertilizers. This can help improve crop yield and reduce waste.
 
-==== Education information
+===== Education information
 
 QR codes can be used to provide education information to students in remote areas. For example, a QR code can be embedded on a textbook, which, when scanned, provides additional information, videos, or interactive learning activities. This can help improve the quality of education and make learning more engaging and interactive.
 
-==== Financial information
+===== Financial information
 
 QR codes can be used to provide financial information to people in remote areas. For example, a QR code can be embedded on a bank account statement, which, when scanned, provides information about account balances, transactions, and interest rates. This can help improve financial literacy and enable people to make better financial decisions.
 
@@ -258,6 +269,10 @@ Feedback mechanism: QR codes can be used to provide readers with a feedback mech
 
 Overall, the information embedded in QR codes will depend on the purpose and context of the book and the type of updates required. QR codes provide a flexible and easy-to-use mechanism for delivering updated information and enhancing the reading experience
 
+=== The requirements of the product
+
+==== QR code stickers
+
 When designing QR codes to embed in books, it is important to consider the following characteristics:
 
 Size: The size of the QR code should be large enough to ensure that it can be easily scanned by a smartphone or tablet, but not so large that it takes up too much space on the book
@@ -273,33 +288,30 @@ Testing: The QR code should be thoroughly tested to ensure that it can be accura
 Accessibility : It is also important to ensure that the QR code is placed in a location that is easily visible and accessible to readers, and that it does not interfere with the readability or usability of the book
 
 Additionally, it is important to make sure that the QR code sticker is securely attached to the book and will not fall off or become damaged over time
-  
-  
-  
-  8. Solar Cooker - In India's rural areas, the concept of a solar cooker might be used to offer a viable and reasonably priced method of preparing meals.  
-    • Remote area cooking : In isolated locations with scant or no access to power or cooking fuel, meals can be cooked using solar cookers. This may lessen the need for conventional cooking fuels like firewood, which can destroy forests and contribute to air pollution.
-    • Community kitchens: Hot meals might be served to people in far-off places using solar cookers. In places with no separate homes or where people live near to one another, this could be extremely helpful.
-    • Disaster Assistance: People afflicted by natural disasters or other situations may receive hot meals thanks to the usage of solar cookers in disaster relief initiatives. Solar cookers may be used even in places without access to electricity or gas because they don't need any additional fuel sources.
-    • Micro-enterprises: In isolated locations, the usage of solar cookers may present potential for micro-enterprises. Solar cookers might be used by neighborhood business owners to set up tiny eateries where they could provide hot meals or sell snacks to the locals.
+ 
 
-    9. Pedal Power Generator - Pedal power generators can be used to power LED lights in homes, schools, and other community spaces in remote areas. This can help improve safety, productivity, and quality of life, particularly in areas where electricity is unreliable or unavailable. They can also be used to power communication devices such as radios and cell phones. This can help people in remote areas stay connected with their families, friends, and emergency services.
-They can be used to power medical devices such as nebulizers, oxygen concentrators, and blood pressure monitors. This can help improve access to healthcare in remote areas and enable people to receive necessary medical treatment without having to travel long distances. Also pedal power generators can be used to power water pumps that bring water from underground sources to the surface. This can help provide access to clean water in areas where the water supply is limited or contaminated.
 
-    10.  Development of human resources - The development of human resources is a key aspect of the DoXFoX initiative and can help bring about systemic changes to the way we live, work and access basic needs in India. 
-Education and training programs can be developed to equip people with the necessary skills and knowledge to participate in the digital economy and take advantage of remote work opportunities. This can help bridge the skills gap and improve access to quality education in remote areas. Programs can be developed to promote entrepreneurship and help people start their own businesses. This can help create new economic opportunities and reduce the dependence on traditional employment options.
+
+==== Development of human resources
+
+The development of human resources is a key aspect of the DoXFoX initiative and can help bring about systemic changes to the way we live, work and access basic needs in India. Education and training programs can be developed to equip people with the necessary skills and knowledge to participate in the digital economy and take advantage of remote work opportunities. This can help bridge the skills gap and improve access to quality education in remote areas. Programs can be developed to promote entrepreneurship and help people start their own businesses. This can help create new economic opportunities and reduce the dependence on traditional employment options.
+
 Mentorship programs can be developed to connect experienced professionals with young people in remote areas. This can help provide guidance and support to those who are just starting their careers and create new networking opportunities. Efforts can be made to improve access to information and knowledge-sharing platforms for people in remote areas. This can help bridge the digital divide and promote the sharing of ideas and best practices.
 Thus, by investing in education, training, entrepreneurship development, capacity building and mentorship programs, we can help create a more equitable and sustainable society.
 
-    11. Solar-powered water filter - The idea of a solar-powered water filter can be a great solution for providing clean drinking water in remote areas of India where access to clean water is limited. Here are some ways in which a solar-powered water filter can be used as part of the DoXFoX initiative:
-    • Water treatment: A solar-powered water filter can use solar energy to power the filtration process and remove impurities from the water, providing safe and clean drinking water. This can help improve health outcomes and reduce the incidence of water-borne illnesses in remote areas.
-    • Community water supply: A solar-powered water filter can be used to set up a community water supply system. This can help provide clean drinking water to a larger number of people in the community, improving their quality of life and reducing the burden of water collection.
-    • Agriculture: A solar-powered water filter can be used to purify water for agricultural purposes. This can help improve crop yields and food security in remote areas where access to water is limited.
+==== Solar-powered water filter
+
+The idea of a solar-powered water filter can be a great solution for providing clean drinking water in remote areas of India where access to clean water is limited. Here are some ways in which a solar-powered water filter can be used as part of the DoXFoX initiative:
+
+Water treatment: A solar-powered water filter can use solar energy to power the filtration process and remove impurities from the water, providing safe and clean drinking water. This can help improve health outcomes and reduce the incidence of water-borne illnesses in remote areas.
+
+Community water supply: A solar-powered water filter can be used to set up a community water supply system. This can help provide clean drinking water to a larger number of people in the community, improving their quality of life and reducing the burden of water collection.
+
+Agriculture: A solar-powered water filter can be used to purify water for agricultural purposes. This can help improve crop yields and food security in remote areas where access to water is limited.
 
 == Specifications
 
 === Constraints placed on certain ideas
-
-Constraits 
 
 ==== QR Code 
 
@@ -321,9 +333,6 @@ Complexity: Implementing a system for managing QR codes and their associated inf
 
 Systematic level testing : this would not be possible within the small time frame available. We would require many books to be updated with QR codes over a small period of time (which is not possible), as it would generally require more than 2-3 years to incorporate such changes in all books across India.  
 
- 
- 
-
 ==== Rechargeable battery: 
 
 Hardware limitations: The development of such a rechargeable bulb would require the integration of a battery, solar panel, and a control circuit into the bulb. Designing such a product would require significant hardware expertise, and sourcing components could be a challenge. 
@@ -342,7 +351,6 @@ Time constraints: Even if we were to try and implement this project, due to the 
 
 Testing: The testing of this idea would require some sample space (in terms of a community/village), and we did not have this for testing the efficiency and usefulness of our idea 
 
- 
 ==== Wind Energy Harvesting devices 
 
 Dependence on Wind Velocity: Wind energy harvesting devices require a minimum wind velocity to generate electricity. If the wind speed falls below a certain level, the device will not be able to generate any electricity. Similarly, if the wind velocity is too high, it can damage the device. 
@@ -357,7 +365,6 @@ Maintenance and Durability: Wind energy harvesting devices require regular maint
 
 Visual Impact: Wind turbines can also have a significant visual impact, which can be seen as a disadvantage by some people. This can affect the aesthetics of the surrounding area and reduce property values. 
 
- 
 ==== Solar Cooker 
 
 Cost: Solar cookers can be expensive to manufacture or purchase, particularly if high-quality materials are used. This may make them less accessible to low-income households, which may be the target audience for our project. 
@@ -380,7 +387,6 @@ Lack of expertise: Developing human resources may require specialized expertise 
 
 Time constraints: Developing human resources is a long-term process that may take several months or even years to achieve. Given the time constraints of our project, it may not be practical to pursue this idea within the given timeline. 
 
- 
 ==== Pedal Power Generator 
 
 Cost: Pedal power generators can be expensive to manufacture or purchase, particularly if high-quality materials are used. This may make them less accessible to low-income households, which may be the target audience for our project. 
@@ -461,9 +467,9 @@ Systemic Level Changes: The idea of a distributed network of healthcare professi
 Time Constraints: The establishment of the network and the deployment of the necessary technology and infrastructure would require significant time and resources, which could limit the feasibility of the idea in the short term. 
 
 
-=== Ideas
+== Specifications
 
-==== Rechargeable battery
+=== Rechargeable battery
 
 Type: Lithium-ion
 
@@ -475,7 +481,7 @@ Charging time: 4-5 hours
 
 Discharging time: 8-10 hrs
 
-==== Wind energy harvesting devices
+=== Wind energy harvesting devices
 
 Rated power output: 1-5kW
 
@@ -487,7 +493,7 @@ Rated wind speed: 10-12 m/s
 
 Cot-out wind speed: 20-25 m/s
 
-==== Solar-powered Water Filter
+=== Solar-powered Water Filter
 
 Filter type: Reverse osmosis
 
@@ -499,7 +505,7 @@ Material: Stainless steel frame with polypropylene filters
 
 UV sterilization: not included
 
-==== Embedding QR code with necessary information
+=== Embedding QR code with necessary information
 
 QR code size: 1 inch x 1 inch
 
@@ -507,7 +513,7 @@ Information stored: Website URL, contact details, product details
 
 Compatible devices: Smartphones and tablets with QR code readers
 
-==== Biogas plant
+=== Biogas plant
 
 Feedstock: Cow dung, poultry waste, agricultural waste
 
@@ -539,13 +545,6 @@ A rechargeable battery is a type of energy storage device that can store electri
 The most common type of rechargeable battery used in solar water filtration systems is a lead-acid battery. These batteries are reliable and cost-effective, making them a popular choice for off-grid applications.
 
 The battery is usually connected to the solar panel and the booster pump through a charge controller, which regulates the flow of power to the battery and prevents overcharging or discharging. The charge controller also ensures that the battery is charged efficiently and prolongs its lifespan. The size and capacity of the rechargeable battery depend on the size of the solar water filtration system and the amount of power needed to operate the pump and other components. Larger systems may require multiple batteries or higher-capacity battery to ensure reliable operation.
-
-Specifications of the Rechargeable Battery which we are going to use: 
-Type: Lithium-ion
-Capacity: 3000mAh 
-Voltage: 3.7V 
-Charging time: 4-5 hours 
-Discharging time: 8-10 hours 
 
 ==== RO membrane
 
@@ -580,19 +579,82 @@ Assembly of a solenoid valve which we are trying to make : https://wicvalve.com/
 
 
 === Working Principle
+
 The process of movement of solvent (water, in this case),  through a semipermeable membrane from the solution (unpurified water) to the pure solvent by applying excess pressure on the solution side, to overcome osmotic pressure is called Reverse Osmosis (RO). In the normal osmosis process, which is driven by chemical potential differences of the solvent, a thermodynamic parameter, the water moves from low solute concentration to high solute concentration. In the RO process, the movement is in the opposite direction. In RO desalination almost all (around 95 to 99%) dissolved salts are filtered into the rejected stream, and solar-powered RO desalination can reduce or interrupt the dependency on conventional energy fossil fuels, reduces additional costs and results in environmental safety with sustainability and a disease-free community. A solar PV module (a series connected sufficient number of solar cells to provide required standard output voltage and power) can be used to act as a power supply for operating functions for desalination, such as a booster pump to pressurise the water flow into RO desalination elements through a rack of vessels containing semi-permeable membranes.
 
 === Block Diagram
 
+.Block diagram of solar-powered water filter
 image::BlockDiagram.jpeg[]
 
 === Process
 
 Solar PV module extracting solar energy whenever available and storing it in a battery. This energy is then used to purify water. In our design, water (unpurified) from a natural source flows through the hoses as shown in the figure, and is pumped through the filtration membrane (RO Unit) which provides purified water at the other end of the membrane where it is stored. The purified water can now be extracted through a tap and used for drinking, dish washing etc.
 
+.Schematic diagram showing the working mechanism of the device
 image::Process.png[]
 
 === Evaluation criteria of the project
+
+Water can be exposed to contamination risks from agricultural, industrial, and domestic activities, which may include many types of pollutants such as heavy metals, pesticides, fertilizers, hazardous chemicals, and oils.
+
+Physical Parameters: Turbidity, Total Solids, Colour, Electrical Conductivity
+
+Turbidity: Due to suspended particles in the water. 
+
+Turbidity is measured by an instrument called nephelometric turbidimeter, which expresses turbidity in terms of NTU or TU. A TU is equivalent to 1 mg/L of silica in suspension. Turbidity more than 5 NTU can be visible to the average person while turbidity in muddy water, it exceeds 100 NTU
+
+Total Solids: Total solid(TS)=Total dissolved solid(TDS)+Total suspended solid(TSS)
+
+Water can be classified by the amount of TDS per liter as follows:
+
+a. Freshwater: <1500 mg/L TDS;
+
+b. Brackish water: 1500–5000 mg/L TDS;
+
+c. Saline water: >5000 mg/L TDS.
+
+Taste and odour: Can be caused by foreign matter such as organic materials, inorganic compounds, or dissolved gasses. They are measured using a threshold value, and must be below a specified limit.
+
+Electrical Conductivity: Pure water is not a good conductor of electricity. Typical conductivity of water is as follows:
+
+a. Ultra-pure water: 5.5 × 10^−6 S/m;
+
+b. Drinking water: 0.005–0.05 S/m;
+
+c. Seawater: 5 S/m.
+
+Chemical Parameters:
+
+a. pH: While 7 pH indicates neutral (neither acidic nor basic), safe ranges of pH for drinking water are from 6.5 to 8.5 for domestic use and living organisms need. Depending on the exact purpose of the filtered water, the allowable range of pH can vary.
+   
+b. Fluoride: 1 – 1.4 mg/L in warmer climates. Up to 2.4 mg/L is allowed in colder climate.
+
+c. Fe: < 0.2 ppm
+
+d. Mn: < 0.05 ppm
+
+e. Al: < 0.2 ppm
+
+f. Cu: < 3.0 ppm
+
+g. Zn: < 5.0 ppm
+
+h. Cd: < 0.005 ppm
+
+i. Residual Cl2 : 2 mg/L
+
+Other anions like Cl-, SO42-, NO3- also must be less than a prescribed limit, but they are much less toxic
+
+Toxic organic substances like benzenoids are carcinogenic, must ensure that these are absent
+
+Radioactive substances: They too can cause serious illness, must check that these are of the order of picocurie per Litre.
+
+Dissolved Oxygen: This is an important metric for the water in streams, lakes, ponds. The higher the concentration of dissolved oxygen, the better the quality of water.
+
+a. BOD – measures the oxygen consumption of the living beings(microbes) in the water
+
+b. COD – measures all the organic (oxidisable) substances present 
 
 === Scope of the project
 
@@ -618,26 +680,32 @@ Mobile unit: Designing the system as a mobile unit can allow it to be easily tra
 
 == Product Development
 
-== Challenges ------- to be reviewed by shubham kumar
+== Challenges
 
 Reverse osmosis water purification with solar electricity can be a practical method for supplying clean drinking water in off-grid remote places. To make this approach possible and effective, though, a number of issues must be resolved. Some of these difficulties include:
 
 === Energy requirements
+
 Reverse osmosis requires a lot of energy to operate, and solar power may not always be able to supply the system with the energy it needs. The amount of energy needed can change based on the water source's quality, the system's capacity, and the surrounding conditions.
 
 === Water quality
+
 Although reverse osmosis can effectively remove a variety of pollutants, including germs and viruses, it might not be able to remove all of them. To ensure that the water satisfies the necessary quality standards, pre-treatment of the water may be necessary.
 
 === Membrane fouling
+
 Reverse osmosis systems might lose efficiency as a result of clogged membranes caused by impurities over time. In places with large concentrations of dissolved solids or organic materials, this may be a particular issue.
 
 === Maintenance
+
 Reverse osmosis systems fueled by solar must undergo routine maintenance to keep working properly. In remote locations where qualified specialists might not be easily accessible, this can be difficult.
 
 === Cost
+
 Reverse osmosis systems that run on solar energy can be pricey to construct and operate. Some groups, especially those in developing countries, may find the cost of the system to be prohibitive.
 
 === Water scarcity
+
 Reverse osmosis systems might not be a good option in places with a limited supply of water because they need a lot of water to run and maintain them.
 
 To ensure that solar-powered reverse osmosis systems are long-lasting and efficient in supplying clean drinking water to underserved populations, these issues must be addressed. This will take a mix of technical know-how, financial commitment, and community involvement.
@@ -667,11 +735,21 @@ In conclusion, our project highlights the importance of community-driven problem
 
 == Glossary
 
+BOD = Biological oxygen demand
+
+COD = Chemical oxygen demand
+
 DoXFroY = *Do* anything(*X*) **Fro**m anywhere(*Y*)
 
 I.F. = Involvement Factor
 
 RO = Reverse Osmosis
+
+TDS = Total Dissolved Solid
+
+TS = Total Solid
+
+TSS = Total Suspended Solid
 
 URL = Uniform Resource Locator
 
