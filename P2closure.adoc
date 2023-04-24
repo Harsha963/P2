@@ -621,7 +621,7 @@ Mobile unit: Designing the system as a mobile unit can allow it to be easily tra
 
 == Product Development
 
-== Challenges
+== Challenges ------- to be reviewed by shubham kumar
 
 Reverse osmosis water purification with solar electricity can be a practical method for supplying clean drinking water in off-grid remote places. To make this approach possible and effective, though, a number of issues must be resolved. Some of these difficulties include:
 
@@ -650,9 +650,11 @@ To ensure that solar-powered reverse osmosis systems are long-lasting and effici
 As a team, our work was related to DoXFroY because we followed a problem-solving approach that focused on the needs of specific communities. We sought to understand the challenges and problems faced by these communities and designed solutions that met their unique requirements. This approach enabled us to create impactful and sustainable solutions that were tailored to the needs of the beneficiaries.
 
 To make DoXFroY a reality, several actions can be taken. First, there needs to be a shift in mindset among individuals and organizations, where they prioritize the needs of the end-users or beneficiaries. This can be achieved by promoting empathy, encouraging active listening, and fostering cross-cultural understanding.
+
 Second, there needs to be more collaboration and partnerships between different stakeholders, including governments, non-profits, and the private sector. These partnerships can help leverage resources, expertise, and knowledge to develop more impactful and sustainable solutions.
 
 Third, education and training programs can be developed to promote the DoXFroY approach among individuals and organizations. This can include courses on design thinking, empathy, and human-centered design, among others.
+
 Finally, systemic level changes are needed to create an environment that supports the development and implementation of DoXFroY initiatives. This can include policy changes, funding mechanisms, and regulatory frameworks that prioritize social impact and innovation. By creating an enabling environment, systemic level changes can help to promote and scale the adoption of DoXFroY in different sectors and industries.
 
 In conclusion, making DoXFroY a reality requires a combination of individual, organizational, and systemic level changes. By adopting a DoXFroY approach, we can design and develop innovative solutions that are more effective, impactful, and sustainable, and that meet the unique needs of the communities we are trying to serve.
@@ -669,6 +671,8 @@ In conclusion, our project highlights the importance of community-driven problem
 == Glossary
 
 DoXFroY = *Do* anything(*X*) **Fro**m anywhere(*Y*)
+
+I.F. = Involvement Factor
 
 RO = Reverse Osmosis
 
