@@ -1,4 +1,4 @@
-image::IITD.png[float="right",align="center"]
+image::IITD.png[IITD Logo, 200, 200, float="right", align="center"]
 
 
 = Tribe D: Daringbaaz | Project DoXFroY | Requirements + Specifications + Design + Closure
