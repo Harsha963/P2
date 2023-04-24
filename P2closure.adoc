@@ -1,5 +1,5 @@
 = Tribe D: Daringbaaz | Project DoXFroY | Requirements + Specifications + Design + Closure
-:authors: Shubham Kumar, Harshita Badiyasar, Hemali Priyadarshi
+:authors: Shubham Kumar, Harshita Badiyasar, Hemali Priyadarshi, Harsha Patnala
 :lang: en
 :toc:
 :sectids:
@@ -9,7 +9,7 @@
 
 == Document Statistics
 
-===
+=== Word Count
 === Readibility measures
 .Readability indices value
 [cols=">2, <7,3a, 4a",options="header",%autowidth.stretch,format=csv]
@@ -30,57 +30,56 @@ Sl. No.,Index,Value,Range
 
 .Detail of team members and their responsibilities
 
-[cols=">2, <7, 4a, 7a, 5a",options="header",%autowidth.stretch,format=csv]
+[cols=">2, <7, 4a, 7a, 5a,2a",options="header",%autowidth.stretch,format=csv]
 
 |===
 
-Sl. No.,Name,Entry,Email,Designation
+Sl. No.,Name,Entry,Email,Designation,I.F.
 
-1,Shubham Kumar,2020EE30627,ee3200627@iitd.ac.in,Tribe Coordinator
-2,Harshita Badiyasar,2020MT10807,mt1200807@iitd.ac.in,Sub-Coordinator
-3,Hemali Priyadarshi,2020EE30597,ee3200597@iitd.ac.in,Sub-Coordinator
-4,Shiva Kumar Vallala,2020MT10848,mt1200848@iitd.ac.in,Sub-Coordinator
-
-5,Anmol S,2020EE10471,ee1200471@iitd.ac.in,Research
-6,Harshita Kurre,2020EE30596,ee3200596@iitd.ac.in,Research
-7,Kartikey Agarwal,2020EE10505,ee1200505@iitd.ac.in,Research
-8,Mannepalli Chandra Sekhar,2020MT10818,mt1200818@iitd.ac.in,Research
-9,Nishant Agarwal,2020MT10828,mt1200828@iitd.ac.in,Research
-10,Priyanshu Sharma,2020MT10678,mt1200678@iitd.ac.in,Research
-11,Rama Bharti,2020MT10834,mt1200834@iitd.ac.in,Research
-12,Saksham Singh,2020MT10841,mt1200841@iitd.ac.in,Research
-13,Sania Goyal,2020MT10842,mt1200842@iitd.ac.in,Research
-14,Sanskriti Jain,2020MT60890,mt6200890@iitd.ac.in,Research
-15,Shivang Agarwal,2020MT10849,mt1200849@iitd.ac.in,Research
-16,Sheetal,2020MT10847,mt1200847@iitd.ac.in,Research
-17,Simran Malik,2020MT10854,mt1200854@iitd.ac.in,Research
-18,Subhan Akhtar,2019EE10533,ee1190533@iitd.ac.in,Researchpra
-19,Sunpreet Singh,2020MT10857,mt1200857@iitd.ac.in,Research
-20,Volla Jayathi,2020MT60897,mt6200897@iitd.ac.in,Research
-21,Yashwant Singh Kaurav,2020MT10864,mt1200864@iitd.ac.in,Research
-22,Aditya Agrawal,2020EE30573,ee3200573@iitd.ac.in,Ideation
-23,Bhavneek Singh,2020EE10482,ee1200482@iitd.ac.in,Ideation
-24,Dheekshith Kumar,2020MT60876,mt6200876@iitd.ac.in,Ideation
-25,Divyanshi Thaakur,2020EE11015,ee1201015@iitd.ac.in,Ideation
-26,Harsh Kumar,2020MT60879,mt6200879@iitd.ac.in,Ideation
-27,Harsha Patnala,2020MT10846,mt1200846@iitd.ac.in,Ideation
-28,Harshit Goyal,2020MT10806,mt1200806@iitd.ac.in,Ideation
-29,Ishaan Singhal,2019EE30574,ee3190574@iitd.ac.in,Ideation
-30,Jaya Teja,2020MT60874,mt6200874@iitd.ac.in,Ideation
-31,Keshav Ranjan,2020EE30602,ee3200602@iitd.ac.in,Ideation
-32,Kishan Kumar Jangde,2020EE10506,ee1200506@iitd.ac.in,Ideation
-33,Neeraj Sharma,2020MT60885,mt6200885@iitd.ac.in,Ideation
-34,Prashant Kumar,2020EE10525,ee1200525@iitd.ac.in,Ideation
-35,Praveen Singh,2020EE30616,ee3200616@iitd.ac.in,Ideation
-36,Prisha Jain,2020MT60886,mt6200886@iitd.ac.in,Ideation
-37,Priyansh Agrawal,2019EE30591,ee3190591@iitd.ac.in,Ideation
-38,Raparthi Akshita,2020EE10538,ee1200538@iitd.ac.in,Ideation
-39,Saurabh Dudhwal,2020MT10844,mt1200844@iitd.ac.in,Ideation
-40,Shubham Kumar,2020EE10554,ee1200554@iitd.ac.in,Ideation
-41,Srikanth R,2020EE10557,ee1200557@iitd.ac.in,Ideation
-42,Varnika Bhatt,2020EE30630,ee3200630@iitd.ac.in,Ideation
-43,Yishuvendra Kumar Devangan,2020EE30635,ee3200635@iitd.ac.in,Ideation
-44,Pankaj Sharma,2020EE30610,ee3200610@ee.iitd.ac.in,Ideation
+1,Shubham Kumar,2020EE30627,ee3200627@iitd.ac.in,Tribe Coordinator,1
+2,Harshita Badiyasar,2020MT10807,mt1200807@iitd.ac.in,Sub-Coordinator,1
+3,Hemali Priyadarshi,2020EE30597,ee3200597@iitd.ac.in,Sub-Coordinator,1
+4,Shiva Kumar Vallala,2020MT10848,mt1200848@iitd.ac.in,Sub-Coordinator,1
+5,Anmol S,2020EE10471,ee1200471@iitd.ac.in,Research,1
+6,Harshita Kurre,2020EE30596,ee3200596@iitd.ac.in,Research,1
+7,Kartikey Agarwal,2020EE10505,ee1200505@iitd.ac.in,Research,1
+8,Mannepalli Chandra Sekhar,2020MT10818,mt1200818@iitd.ac.in,Research,1
+9,Nishant Agarwal,2020MT10828,mt1200828@iitd.ac.in,Research,1
+10,Priyanshu Sharma,2020MT10678,mt1200678@iitd.ac.in,Research,1
+11,Rama Bharti,2020MT10834,mt1200834@iitd.ac.in,Research,1
+12,Saksham Singh,2020MT10841,mt1200841@iitd.ac.in,Research,1
+13,Sania Goyal,2020MT10842,mt1200842@iitd.ac.in,Research,1
+14,Sanskriti Jain,2020MT60890,mt6200890@iitd.ac.in,Research,1
+15,Shivang Agarwal,2020MT10849,mt1200849@iitd.ac.in,Research,1
+16,Sheetal,2020MT10847,mt1200847@iitd.ac.in,Research,1
+17,Simran Malik,2020MT10854,mt1200854@iitd.ac.in,Research,1
+18,Subhan Akhtar,2019EE10533,ee1190533@iitd.ac.in,Research,1
+19,Sunpreet Singh,2020MT10857,mt1200857@iitd.ac.in,Research,1
+20,Volla Jayathi,2020MT60897,mt6200897@iitd.ac.in,Research,1
+21,Yashwant Singh Kaurav,2020MT10864,mt1200864@iitd.ac.in,Research,1
+22,Aditya Agrawal,2020EE30573,ee3200573@iitd.ac.in,Ideation,1
+23,Bhavneek Singh,2020EE10482,ee1200482@iitd.ac.in,Ideation,1
+24,Dheekshith Kumar,2020MT60876,mt6200876@iitd.ac.in,Ideation,1
+25,Divyanshi Thaakur,2020EE11015,ee1201015@iitd.ac.in,Ideation,1
+26,Harsh Kumar,2020MT60879,mt6200879@iitd.ac.in,Ideation,1
+27,Harsha Patnala,2020MT10846,mt1200846@iitd.ac.in,Ideation,1
+28,Harshit Goyal,2020MT10806,mt1200806@iitd.ac.in,Ideation,1
+29,Ishaan Singhal,2019EE30574,ee3190574@iitd.ac.in,Ideation,1
+30,Jaya Teja,2020MT60874,mt6200874@iitd.ac.in,Ideation,1
+31,Keshav Ranjan,2020EE30602,ee3200602@iitd.ac.in,Ideation,1
+32,Kishan Kumar Jangde,2020EE10506,ee1200506@iitd.ac.in,Ideation,1
+33,Neeraj Sharma,2020MT60885,mt6200885@iitd.ac.in,Ideation,1
+34,Prashant Kumar,2020EE10525,ee1200525@iitd.ac.in,Ideation,1
+35,Praveen Singh,2020EE30616,ee3200616@iitd.ac.in,Ideation,1
+36,Prisha Jain,2020MT60886,mt6200886@iitd.ac.in,Ideation,1
+37,Priyansh Agrawal,2019EE30591,ee3190591@iitd.ac.in,Ideation,1
+38,Raparthi Akshita,2020EE10538,ee1200538@iitd.ac.in,Ideation,1
+39,Saurabh Dudhwal,2020MT10844,mt1200844@iitd.ac.in,Ideation,1
+40,Shubham Kumar,2020EE10554,ee1200554@iitd.ac.in,Ideation,1
+41,Srikanth R,2020EE10557,ee1200557@iitd.ac.in,Ideation,1
+42,Varnika Bhatt,2020EE30630,ee3200630@iitd.ac.in,Ideation,1
+43,Yishuvendra Kumar Devangan,2020EE30635,ee3200635@iitd.ac.in,Ideation,1
+44,Pankaj Sharma,2020EE30610,ee3200610@ee.iitd.ac.in,Ideation,1
 |===
 
 == Project Workflow Design
@@ -88,8 +87,44 @@ Sl. No.,Name,Entry,Email,Designation
 
 
 == Abstract
-In this document, we present to you some of the ideas we discussed to improve rural India, along with the requirements and specifications of each product. Some ideas we thought would be helpful are solar energy-supported water filtration systems, solar cookers, wind energy harvesting devices, and rechargeable batteries. We chose these ideas considering the requirements of people, the feasibility of these products, and the feasibility of using green energy to support these devices. The final demonstrable product we decided on is a solar energy-supported water filtration system. This is because the availability of clean drinking water is a significant problem in India. Not all villages can afford water treatment plants, mainly due to the cost of maintaining them. So we decided to reduce the cost by using solar energy. It is a one-time investment, and maintaining it is pretty simple.  Solar energy is also much cleaner than your usual conventional alternatives.  The document also explores the design and the working principle of this product.
+In this document, we present to you some of the ideas we discussed to improve rural India, along with the requirements and specifications of each product. Some ideas we thought would be helpful are solar energy-supported water filtration systems, solar cookers, wind energy harvesting devices, and rechargeable batteries. We chose these ideas considering the requirements of people, the feasibility of these products, and the feasibility of using green energy to support these devices. The final demonstrable product we decided on is a solar energy-supported water filtration system. This is because the availability of clean drinking water is a significant problem in India. Not all villages can afford water treatment plants, mainly due to the cost of maintaining them. So we decided to reduce the cost by using solar energy. It is a one-time investment, and maintaining it is pretty simple.  Solar energy is also much cleaner than your usual conventional alternatives.  The document also explores the design and the working principle of this product including a block diagram.
+
 == Background
+
+One of the earliest mentions of  "do anything from anywhere" idea can be traced back to the Industrial Revolution, when the concept of working from home became popular among artisans and craftspeople who produced goods from their homes. However, this type of work was limited to those who had the skills and equipment necessary to produce goods independently.
+
+The modern idea of "do anything from anywhere", which allows people to perform a variety of tasks from anywhere in the world, emerged in the late 20th century with the rise of telecommunications and the internet. In the 1970s, futurist Alvin Toffler predicted that technology would allow people to work from home and communicate with others around the world without leaving their desks.
+
+In the 1980s, IBM became one of the first companies to adopt a remote work policy, allowing employees to work from home or other locations. Other companies followed suit, and the concept of remote work began to gain popularity.
+
+So, there isn't one specific person who first talked about the idea of remote work as we know it today. Instead, it has evolved over time as technology has advanced and more people have recognized its benefits.
+
+=== Why is DoXFroY necessary
+
+The ability to "do anything from anywhere" has become increasingly important in recent years due to advances in technology and changes in the global economy.
+
+Firstly, modern technology such as the internet, cloud computing, and mobile devices have made it possible to work and communicate from anywhere in the world. This has created new opportunities for businesses and individuals to work remotely, which can increase productivity, reduce costs, and provide greater flexibility.
+
+Secondly, globalisation and the rise of the knowledge economy mean that many jobs and industries are no longer tied to a specific location. For example, a software developer can work from anywhere in the world as long as they have an internet connection and the necessary software tools. This has led to the growth of the gig economy and freelance work, which are often conducted remotely.
+
+Thirdly, the COVID-19 pandemic has accelerated the adoption of remote work as a way for companies to continue their operations while keeping their employees safe. This has shown that remote work can be just as effective as traditional office-based work, and has led to many companies adopting hybrid work models that allow employees to work from anywhere.
+
+In summary, the ability to "do anything from anywhere" has become necessary due to technological advancements, changes in the global economy, and the COVID-19 pandemic. It provides greater flexibility, increased productivity, and can reduce costs for businesses and individuals alike.
+
+=== How DoXFroY can be converted into reality
+
+The ability to "do anything from anywhere" is made possible by several factors, including infrastructure, technology, and government policies.
+
+Infrastructure: To enable remote work, a reliable infrastructure is necessary, including access to high-speed internet, mobile networks, and other essential services. Many countries and regions have invested in expanding their infrastructure to support remote work, such as building fiber-optic networks or improving mobile network coverage in rural areas.
+
+Technology: Modern technology such as cloud computing, video conferencing, and collaboration tools are essential for remote work. Advances in technology have made it possible to work and communicate from anywhere in the world, which has increased the popularity of remote work.
+
+Government policies: Government policies can also play a role in enabling remote work. For example, some governments offer tax incentives or other benefits to companies that allow remote work or invest in digital infrastructure. Additionally, policies such as flexible working hours or remote work arrangements can help to facilitate remote work.
+
+Cultural acceptance: In some places, cultural attitudes towards remote work may play a role in its adoption. For example, in some countries, there is a strong cultural emphasis on working in a traditional office environment. However, as the benefits of remote work become more widely recognized, attitudes are shifting, and more people are embracing the idea of working remotely.
+
+In summary, to enable remote work, a combination of infrastructure, technology, government policies, and cultural acceptance is necessary. As these factors continue to evolve and improve, the ability to "do anything from anywhere" will become increasingly accessible to people around the world.
+
  
 == Introduction
 
@@ -138,10 +173,297 @@ A lot of times a particular chapter of a book needs to be updated and the publis
 
 === Biogas plant
 
+=== Project Paramarth
+
+It is an effort to create technical and system-level solutions that are scalable, sustainable, and economical and would enable individuals to access all of their needs from wherever in India. The initiative intends to eliminate the necessity for individuals to relocate to cities and metropolises in order to meet their basic and advanced requirements by enabling them to live meaningful and rewarding lives while remaining in their current communities. The goal of the project is to create and develop cutting-edge technology and system-level interventions that will allow Indian individuals to select where they want to live, where they want to work, and where they can get everything they need without having to move.
+
+The project team will be required to create a variety of technologies and systems, including strong internet connectivity, telemedicine, e-commerce platforms, remote work solutions, and more, to accomplish these aims. To make sure that the interventions are long-lasting, reasonably priced, and available to everyone, the project will probably require cooperation from a variety of sectors and stakeholders, including government organizations, for-profit businesses, NGOs, and local communities.
+
+=== Network of Health Care Workers and Centers
+
+A network of healthcare workers and centers could play a crucial role in enabling people to access medical treatment from anywhere in India. Here are some possible interventions that could be implemented through such a network - 
+
+==== Telemedicine services
+
+Healthcare professionals and facilities might provide telemedicine services to patients in far-off places with the use of internet access. Patients might virtually chat with medical specialists, get advice from them, and even get medicines online.
+
+==== Remote patient sensing
+
+Healthcare professionals and facilities might follow the health of patients with chronic diseases or those who require after surgery care using remote monitoring technologies. Patients might submit their health information to healthcare providers using wearable technology or other remote monitoring tools so that they can monitor the patient's status and take appropriate action if necessary.
+==== Mobile medical clinics
+
+With the right tools and resources, medical personnel may go to far-flung locations in mobile clinics. These clinics could give basic medical treatment, carry out diagnostic procedures, or even perform small surgeries.
+
+==== Medical supply chain management
+
+Hospitals and other healthcare facilities might employ technology to control the flow of medical supplies and equipment. This can entail keeping track of the stock of medical equipment, ordering, and sending supplies to far-off places, and making sure that the apparatus is maintained and fixed as required.
+
+In general, a network of medical professionals and facilities might be extremely important in ensuring that residents of remote locations have access to high-quality medical treatment. Healthcare services might be provided more effectively and efficiently by utilizing technology and innovation, aiding in closing the access divide between urban and rural healthcare.
+
+=== Grievance redressal system and crowdsourcing information from people
+
+A grievance redressal system could be set up to address issues faced by citizens in accessing basic services or in using the DoXFoX initiative. This system could include a helpline number, online platform, or mobile application where citizens can register their grievances and track their progress. The system could also be integrated with government agencies or service providers to ensure that complaints are resolved in a timely and effective manner.
+
+Crowdsourcing information from citizens could help to identify the needs and concerns of people living in remote areas. This could be done through surveys, focus groups, or social media platforms. The information gathered could be used to inform the development of new services or technologies as part of the DoXFoX initiative. Also, community feedback mechanisms could be established to encourage citizen participation and engagement. This could include town hall meetings, community forums, or feedback boxes located in public places. These mechanisms could provide a platform for citizens to voice their concerns, provide feedback on existing services, and suggest new ideas for the DoXFoX initiative.
+
+=== Biogas Plant
+The idea of a biogas plant could be used to provide sustainable energy solutions in remote areas of India. It could be beneficial in the following ways –
+
+==== Cooking fuel 
+Biogas plants could be used to provide cooking fuel in remote areas where there is limited or no access to electricity or cooking gas. The biogas produced from the plant could be used in stoves or burners for cooking, replacing traditional cooking fuels such as firewood or charcoal. This can help reduce deforestation and indoor air pollution.
+
+==== Electricity Generation
+Biogas plants can also be used to generate electricity in remote areas where there is no access to the grid. The electricity generated can be used for lighting, powering appliances, or even for running small businesses. This can provide a sustainable and affordable energy source for people living in these areas.
+
+==== Waste management 
+Biogas plants can be used to manage organic waste, such as food waste, animal waste, or agricultural waste. The waste is fed into the plant, where it is broken down by bacteria to produce biogas and organic fertilizer. This can help reduce the amount of waste that ends up in landfills, and provide a valuable source of fertilizer for agricultural use.
+
+==== Employment Opportunities 
+The establishment and maintenance of biogas plants can create employment opportunities in rural areas. Local entrepreneurs could set up and run biogas plants, providing a valuable service to the community while also generating income.
+
+==== Rechargeable battery 
+The idea of a rechargeable battery can be used in various ways as part of the DoXFoX initiative to provide sustainable and affordable energy solutions in remote areas of India. Here are some ways in which rechargeable batteries can be used:
+
+==== Off-grid electricity
+Rechargeable batteries can be used to store electricity generated from renewable sources such as solar panels or wind turbines. This stored energy can then be used to power homes, appliances, or small businesses, providing a sustainable and reliable off-grid electricity solution.
+
+==== Electric vehicles
+Rechargeable batteries can also be used in electric vehicles, providing a sustainable and clean mode of transportation. This can be particularly useful in rural areas where transportation options are limited.
+
+==== Backup power
+Rechargeable batteries can be used as backup power sources in case of power outages. This can be particularly useful in areas where power outages are frequent, and can help ensure that critical services such as healthcare facilities and communication networks remain operational.
+
+==== Wind energy harvesting devices
+Small wind turbines can be installed in remote areas to generate electricity. These turbines can be used to power homes, schools, health clinics, or small businesses, providing a sustainable and reliable off-grid electricity solution. Small wind turbines can also be used in combination with other renewable energy sources such as solar panels to provide a hybrid energy system. Portable wind turbines can also be used to provide electricity in areas where there is no access to electricity, or where access is limited. These turbines can be set up in minutes and can be used to power small devices such as phones, laptops, or lamps.
+
+Wind energy can be used to power water pumps in remote areas, providing a sustainable and reliable source of water. This can be particularly useful in areas where access to clean water is limited.
+
+
+=== Embedding QR code with necessary information 
+The use of QR codes as part of the DoXFoX initiative can help improve access to information and services in remote areas of India, making it easier for people to access the information they need to make informed decisions about their health, education, finances, and more. Here are some ways in which QR codes can be used:
+    
+==== Healthcare information
+QR codes can be used to provide healthcare information to patients in remote areas. For example, a QR code can be embedded on a medication package, which, when scanned, provides information about the medication, dosage, side effects, and instructions for use. This can help improve patient safety and reduce the risk of medication errors.
+
+==== Agricultural information
+QR codes can be used to provide agricultural information to farmers in remote areas. For example, a QR code can be embedded on a seed package, which, when scanned, provides information about the seed, planting instructions, and recommended fertilizers. This can help improve crop yield and reduce waste.
+
+==== Education information
+QR codes can be used to provide education information to students in remote areas. For example, a QR code can be embedded on a textbook, which, when scanned, provides additional information, videos, or interactive learning activities. This can help improve the quality of education and make learning more engaging and interactive.
+
+==== Financial information
+QR codes can be used to provide financial information to people in remote areas. For example, a QR code can be embedded on a bank account statement, which, when scanned, provides information about account balances, transactions, and interest rates. This can help improve financial literacy and enable people to make better financial decisions.
+
+Requirements:
+In the context of updating books, QR codes can be used to provide readers with access to a range of information related to the book, such as:
+
+
+    1. Updated text: QR codes can be used to provide updated text for a chapter or section of the book that needs to be corrected.
+    2. Multimedia content: QR codes can be used to provide multimedia content such as videos, audio recordings, or images that supplement the book content
+    3. Additional resources: QR codes can be used to provide links to additional resources such as websites, articles, or research papers related to the book content
+    4. Author information: QR codes can be used to provide readers with information about the author or the publishing house, including their contact information, social media profiles, and other relevant details
+    5. Feedback mechanism: QR codes can be used to provide readers with a feedback mechanism where they can send their comments, questions, or suggestions related to the book content
+
+Overall, the information embedded in QR codes will depend on the purpose and context of the book and the type of updates required. QR codes provide a flexible and easy-to-use mechanism for delivering updated information and enhancing the reading experience
+
+When designing QR codes to embed in books, it is important to consider the following characteristics:
+
+
+    1. Size: The size of the QR code should be large enough to ensure that it can be easily scanned by a smartphone or tablet, but not so large that it takes up too much space on the book
+    2. Contrast: The QR code should have a high contrast with the background on which it is printed to ensure that it can be easily scanned
+    3. Error correction: The QR code should have error correction capabilities, which can help to ensure that the code can be accurately scanned even if it is partially damaged or obscured
+    4. Encoding: The QR code should be encoded with the appropriate information, including links, text, or other relevant data
+    5. Testing: The QR code should be thoroughly tested to ensure that it can be accurately scanned by a variety of devices and under different lighting conditions
+    6. Accessibility : It is also important to ensure that the QR code is placed in a location that is easily visible and accessible to readers, and that it does not interfere with the readability or usability of the book
+    7. Additionally, it is important to make sure that the QR code sticker is securely attached to the book and will not fall off or become damaged over time
+    8. Solar Cooker - In India's rural areas, the concept of a solar cooker might be used to offer a viable and reasonably priced method of preparing meals.  
+    • Remote area cooking : In isolated locations with scant or no access to power or cooking fuel, meals can be cooked using solar cookers. This may lessen the need for conventional cooking fuels like firewood, which can destroy forests and contribute to air pollution.
+    • Community kitchens: Hot meals might be served to people in far-off places using solar cookers. In places with no separate homes or where people live near to one another, this could be extremely helpful.
+    • Disaster Assistance: People afflicted by natural disasters or other situations may receive hot meals thanks to the usage of solar cookers in disaster relief initiatives. Solar cookers may be used even in places without access to electricity or gas because they don't need any additional fuel sources.
+    • Micro-enterprises: In isolated locations, the usage of solar cookers may present potential for micro-enterprises. Solar cookers might be used by neighborhood business owners to set up tiny eateries where they could provide hot meals or sell snacks to the locals.
+
+    9. Pedal Power Generator - Pedal power generators can be used to power LED lights in homes, schools, and other community spaces in remote areas. This can help improve safety, productivity, and quality of life, particularly in areas where electricity is unreliable or unavailable. They can also be used to power communication devices such as radios and cell phones. This can help people in remote areas stay connected with their families, friends, and emergency services.
+They can be used to power medical devices such as nebulizers, oxygen concentrators, and blood pressure monitors. This can help improve access to healthcare in remote areas and enable people to receive necessary medical treatment without having to travel long distances. Also pedal power generators can be used to power water pumps that bring water from underground sources to the surface. This can help provide access to clean water in areas where the water supply is limited or contaminated.
+
+    10.  Development of human resources - The development of human resources is a key aspect of the DoXFoX initiative and can help bring about systemic changes to the way we live, work and access basic needs in India. 
+Education and training programs can be developed to equip people with the necessary skills and knowledge to participate in the digital economy and take advantage of remote work opportunities. This can help bridge the skills gap and improve access to quality education in remote areas. Programs can be developed to promote entrepreneurship and help people start their own businesses. This can help create new economic opportunities and reduce the dependence on traditional employment options.
+Mentorship programs can be developed to connect experienced professionals with young people in remote areas. This can help provide guidance and support to those who are just starting their careers and create new networking opportunities. Efforts can be made to improve access to information and knowledge-sharing platforms for people in remote areas. This can help bridge the digital divide and promote the sharing of ideas and best practices.
+Thus, by investing in education, training, entrepreneurship development, capacity building and mentorship programs, we can help create a more equitable and sustainable society.
+
+    11. Solar-powered water filter - The idea of a solar-powered water filter can be a great solution for providing clean drinking water in remote areas of India where access to clean water is limited. Here are some ways in which a solar-powered water filter can be used as part of the DoXFoX initiative:
+    • Water treatment: A solar-powered water filter can use solar energy to power the filtration process and remove impurities from the water, providing safe and clean drinking water. This can help improve health outcomes and reduce the incidence of water-borne illnesses in remote areas.
+    • Community water supply: A solar-powered water filter can be used to set up a community water supply system. This can help provide clean drinking water to a larger number of people in the community, improving their quality of life and reducing the burden of water collection.
+    • Agriculture: A solar-powered water filter can be used to purify water for agricultural purposes. This can help improve crop yields and food security in remote areas where access to water is limited.
 
 == Specifications
 
-=== Rechargeable battery
+=== Constraints placed on certain ideas
+
+Constraits 
+
+==== QR Code 
+
+There are several potential problems with embedding QR codes in books to provide updated information: 
+
+Dependence on Technology: The idea assumes that everyone has access to a smartphone or device that can scan the QR code, which may not be the case for everyone. This could create a digital divide and limit the accessibility of the updated information. 
+
+Privacy Concerns: QR codes may collect data about the user's device or location, and there is a risk of the user's personal data being compromised. This may discourage some people from scanning the codes, and in turn, they would miss out on the updated information. 
+
+Compatibility: Not all QR codes are compatible with all devices or scanning applications. This could lead to frustration and confusion for users who are unable to access the updated information. 
+
+Cost: Embedding QR codes in books may increase the production cost of the book, which could make it more expensive for consumers to purchase. 
+
+Updating QR codes: In order to keep the QR codes updated, the book publisher or author would need to continually update the information on the code, which could be time-consuming and expensive. This may not be feasible for all publishers or authors. 
+
+Updating the information linked to the QR codes would require a system to manage the updates, including changes in the information and the QR code itself. This could require specialized software to maintain and update the database of QR codes and the linked information. 
+
+Complexity: Implementing a system for managing QR codes and their associated information could be complex, requiring specialized skills and knowledge to set up and maintain. 
+
+Systematic level testing : this would not be possible within the small time frame available. We would require many books to be updated with QR codes over a small period of time (which is not possible), as it would generally require more than 2-3 years to incorporate such changes in all books across India.  
+
+ 
+ 
+
+==== Rechargeable battery: 
+
+Hardware limitations: The development of such a rechargeable bulb would require the integration of a battery, solar panel, and a control circuit into the bulb. Designing such a product would require significant hardware expertise, and sourcing components could be a challenge. 
+
+Technical challenges: Developing a rechargeable light bulb that is affordable, durable, and efficient in storing energy could be technically challenging, requiring specialized skills and knowledge in materials science, electronics, and renewable energy. Knowledge of materials science is one thing that we don’t have much expertise in. 
+
+Infrastructure challenges: Deploying the rechargeable light bulb on a large scale would require significant investments in infrastructure, including solar panels, batteries, and distribution networks, which may be difficult to establish in remote rural areas. It is beyond our current scope to make infrastructural modifications to already existing systems. 
+
+Cost: The rechargeable light bulb may be more expensive than traditional light bulbs, making it difficult for low-income households to adopt the technology. (One time expense of buying a rechargeable bulb can be greater than that of the traditional bulbs, even though in the long run the rechargeable ones might prove to be more economical) 
+
+Systematic changes: The deployment of rechargeable light bulbs on a large scale would require changes in the way electricity is generated, distributed, and consumed, which may be difficult to implement and require the cooperation of multiple stakeholders, including government agencies, utilities, and communities. 
+
+Environmental concerns: The production and disposal of rechargeable light bulbs may have environmental impacts, and the use of solar panels may require the extraction of rare metals and minerals, which can have negative environmental consequences. 
+
+Time constraints: Even if we were to try and implement this project, due to the time constraints, we wouldn’t be able to complete it, thus we had to drop it 
+
+Testing: The testing of this idea would require some sample space (in terms of a community/village), and we did not have this for testing the efficiency and usefulness of our idea 
+
+ 
+==== Wind Energy Harvesting devices 
+
+Dependence on Wind Velocity: Wind energy harvesting devices require a minimum wind velocity to generate electricity. If the wind speed falls below a certain level, the device will not be able to generate any electricity. Similarly, if the wind velocity is too high, it can damage the device. 
+
+Location-specific: The efficiency of wind energy harvesting devices largely depends on the location. The device needs to be placed in an area with high wind velocity, which may not always be possible. Also, areas with high wind velocity may be prone to extreme weather conditions such as hurricanes and tornadoes, which can damage the device. We did not have access to such a location to test our product hence the idea was dropped. 
+
+Noise Pollution: Wind energy harvesting devices produce noise while in operation. This can be a problem if the device is installed in a residential area where noise pollution is not tolerated. 
+
+Bird and Wildlife Collisions (Environmental concerns): Wind turbines can cause harm to birds and other wildlife that fly into them. This can affect the local ecosystem and biodiversity. 
+
+Maintenance and Durability: Wind energy harvesting devices require regular maintenance to ensure optimal performance. They can also be damaged by extreme weather conditions such as high winds and lightning strikes. Therefore, the materials used for building the device must be durable enough to withstand such conditions. 
+
+Visual Impact: Wind turbines can also have a significant visual impact, which can be seen as a disadvantage by some people. This can affect the aesthetics of the surrounding area and reduce property values. 
+
+ 
+==== Solar Cooker 
+
+Cost: Solar cookers can be expensive to manufacture or purchase, particularly if high-quality materials are used. This may make them less accessible to low-income households, which may be the target audience for our project. 
+
+Technical challenges: Solar cookers require specific technical expertise to manufacture, install, and maintain. This may be a challenge for our team, as we do not have access to specialized knowledge or equipment. 
+
+Infrastructural challenges: Solar cookers require consistent sunlight to operate effectively. This may be a challenge in areas with high levels of cloud cover or frequent rain. Additionally, households may require significant infrastructural changes, such as the installation of solar panels or the modification of cooking spaces, to use solar cookers effectively. 
+
+Systemic level challenges: Implementing solar cookers would require systemic changes at a larger scale, including changes in cooking habits and traditions. Changing cooking habits and traditions would require a change in the mindset and behavior of the community. This is a systemic challenge that requires a multi-dimensional approach and may take considerable time to achieve as it involves educating and raising awareness among the community 
+
+==== Development of human resources 
+
+Systemic level changes: The idea of developing human resources such as Anganwadi and ASHA workers requires systemic changes in policy, funding, and implementation. This may be difficult to achieve within the limited scope of our project. 
+
+Resource-intensive: Developing human resources can be a resource-intensive process that requires significant investment in training, infrastructure, and personnel. This may not be feasible within the constraints of our project. 
+
+Limited impact: While Anganwadi and ASHA workers have had a positive impact in rural areas, there may be limits to their effectiveness. For example, there may be constraints on their time, resources, and ability to reach all households. 
+
+Lack of expertise: Developing human resources may require specialized expertise in areas such as training, curriculum development, and program management. We may not have the necessary expertise within our team to effectively implement this idea. 
+
+Time constraints: Developing human resources is a long-term process that may take several months or even years to achieve. Given the time constraints of our project, it may not be practical to pursue this idea within the given timeline. 
+
+ 
+==== Pedal Power Generator 
+
+Cost: Pedal power generators can be expensive to manufacture or purchase, particularly if high-quality materials are used. This may make them less accessible to low-income households, which may be the target audience for our project. 
+
+Complexity: A pedal power generator is a complex system that requires technical knowledge to design and maintain. This may pose a challenge for individuals and communities with limited access to technical education and training. 
+
+Technical challenges: Pedal power generators require specific technical expertise to manufacture, install, and maintain. This may be a challenge for our team, as we do not have access to specialized knowledge or equipment. 
+
+Infrastructural challenges: Pedal power generators require consistent physical effort to operate effectively. This may be a challenge for some households, particularly if they have limited access to food, water, or other resources required for sustained physical exertion. Additionally, households may require significant infrastructural changes, such as the installation of generators or the modification of electrical systems, to use pedal power generators effectively. 
+
+Systemic level challenges: Pedal power generators may require systemic changes to be effective. For example, they may require changes to the existing electrical grid or energy policies to ensure that households can effectively sell or distribute the excess electricity they generate. These challenges may be difficult to overcome within the given constraints of our project. 
+
+Safety concerns: Pedal power generators may pose safety risks, particularly if not designed and maintained correctly. This could lead to injuries and accidents, which could undermine the effectiveness of the solution. 
+
+Time constraints: Developing and testing a pedal power generator prototype would require significant time and resources, which may not be feasible within our project's timeline. 
+
+==== Solar Powered Water Filter
+
+Hardware product preferred over software product: We decided to go with a hardware product instead of a software product as we wanted to make a tangible impact on people's lives. A solar-powered water filter is a physical product that can be installed in rural areas to provide clean drinking water to people. 
+
+Technical feasibility: The solar-powered water filter is technically feasible and does not require complex installation or maintenance. It is a simple device that can be installed and used easily. 
+
+Cost-effective: The solar-powered water filter is cost-effective and has a lower cost of installation and maintenance compared to wind energy harvesting devices. 
+
+Time constraints: The solar-powered water filter is a product that can be developed and installed in a relatively short amount of time. It is a practical solution that can be completed within the given time frame of our project. 
+
+ 
+==== Project Paramarth 
+
+Resource constraints: The project requires a sufficient number of volunteers and helpers to work effectively. Lack of volunteers in certain areas could limit the reach of the project. 
+
+Technology constraints: The project requires the development of an online platform or app to connect volunteers and helpers. This requires technical skills and resources, as well as ongoing maintenance and updates. 
+
+Privacy and security concerns: The project involves the collection and sharing of personal information, which raises privacy and security concerns. The project must ensure that personal information is kept confidential and secure. Because for example if a theif gets the information about a old people who live alone they can attack on their home0000 
+
+Accessibility constraints: The platform must be accessible to everyone, regardless of their age, gender, or physical ability. This requires the design of an easy-to-use interface and consideration of accessibility features for people with disabilities. 
+
+Systemic level changes: Some ideas, such as implementing a government policy to incentivize volunteering, require systemic-level changes that are beyond the scope of the project. 
+
+Software vs hardware debate: The choice between developing a web-based platform or a mobile application requires careful consideration of user preferences and limitations in terms of device compatibility and connectivity 
+
+Time constraints: Certain ideas, such as the installation of a biogas plant, require significant time and resources that may not be feasible within the project timeline. The project must prioritize ideas that can be implemented within the given timeframe. 
+
+ 
+==== Biogas Plant 
+
+Location Constraint: The biogas plant takes a significant amount of space and also location specific.
+
+Cost: Implementing a biogas plant may be expensive, requiring significant investment in equipment, infrastructure, and maintenance. 
+
+Time: Setting up a biogas plant could be time-consuming, requiring the installation of equipment, the development of infrastructure, and the training of personnel. 
+
+Maintenance: Biogas plants require ongoing maintenance to operate efficiently, which could be costly and time-consuming. This could be a significant constraint for communities with limited resources. 
+
+ 
+Technical expertise: Biogas plants require specialized technical expertise to operate and maintain, which may not be available in all communities. 
+
+Environmental impact: Biogas plants can produce odors, noise, and waste products, which may be a concern for nearby residents. Proper environmental safeguards and mitigation measures would need to be put in place to address these concerns. 
+
+Hardware vs. software debate: Biogas plants involve both hardware (such as tanks and pipes) and software (such as control systems and monitoring software). Choosing the right mix of hardware and software could be a constraint, as it would require balancing technical and financial considerations. 
+
+Time-limit: Setting up a biogas plant would require a significant investment of time, which may not be feasible within a short time frame. This could be a constraint for communities with urgent needs for energy or waste management solutions. 
+
+==== Network of Health Centers
+
+Accessibility: While the network of healthcare professionals and volunteers would increase accessibility to health-related assistance, there may still be areas that are difficult to reach due to remote locations or lack of infrastructure. This could limit the effectiveness of the network in helping those in need. 
+
+Dependence on Technology: The idea relies heavily on technology, specifically the app and drones, to dispatch necessary items. This may not be feasible in areas with limited access to technology or internet connectivity, which could limit the reach of the network. 
+
+Privacy Concerns: The app would collect personal data from users, such as location and medical history, which could be a concern for some users. There is a risk of the user's personal data being compromised, which could discourage some people from using the app. 
+
+Cost: Establishing and maintaining a network of healthcare professionals, nurses, doctors, and volunteers would require significant resources and funding. Additionally, the cost of deploying drones for delivery could be high, which could limit the scalability of the network. 
+
+Infrastructure: The effectiveness of the network would be limited by the availability of necessary infrastructure, such as medical supplies and equipment, and transportation infrastructure for the drones. 
+
+Systemic Level Changes: The idea of a distributed network of healthcare professionals, nurses, doctors, and volunteers may require systemic-level changes in the healthcare system, which could be difficult to implement in practice. 
+
+Time Constraints: The establishment of the network and the deployment of the necessary technology and infrastructure would require significant time and resources, which could limit the feasibility of the idea in the short term. 
+
+
+=== Ideas
+
+==== Rechargeable battery
 
 Type: Lithium-ion
 
@@ -153,7 +475,7 @@ Charging time: 4-5 hours
 
 Discharging time: 8-10 hrs
 
-=== Wind energy harvesting devices
+==== Wind energy harvesting devices
 
 Rated power output: 1-5kW
 
@@ -165,7 +487,7 @@ Rated wind speed: 10-12 m/s
 
 Cot-out wind speed: 20-25 m/s
 
-=== Solar-powered Water Filter
+==== Solar-powered Water Filter
 
 Filter type: Reverse osmosis
 
@@ -177,7 +499,7 @@ Material: Stainless steel frame with polypropylene filters
 
 UV sterilization: not included
 
-=== Embedding QR code with necessary information
+==== Embedding QR code with necessary information
 
 QR code size: 1 inch x 1 inch
 
@@ -185,7 +507,7 @@ Information stored: Website URL, contact details, product details
 
 Compatible devices: Smartphones and tablets with QR code readers
 
-=== Biogas plant
+==== Biogas plant
 
 Feedstock: Cow dung, poultry waste, agricultural waste
 
@@ -197,40 +519,83 @@ Digester material: Fiberglass reinforced plastic
 
 Gas utilization: Cooking, lighting, heating
 
-A lot of ideas were discussed to improve rural India and many products along with their requirements and specifications were also discussed. Some of the ideas that we discussed that would be helpful for people along with why we did not consider them are:
-
-1. 
-For Rechargeable batteries - Rural areas present many environmental challenges such as extreme temperatures, humidity, and dust, which can impact the performance of the battery. We found it difficult to solve these challenges while discussing the specifications of the battery. It was also important to design a battery that is easy to use and maintain. We had to consider the usability of the battery and ensure that it is user-friendly for rural people. They can pose safety risks if not used and designed correctly. 
-
-2.
-For the Network of health centres and Development of human resources(Under Systemic level changes) - As these industries are heavily regulated, we had to consider how to navigate the regulations and policies related to establishing and maintaining them in rural areas. They often have a shortage of professionals, which makes it challenging to staff and maintain these industries. We had to consider how to attract and retain professionals in rural areas. Rural communities also may have unique cultural beliefs and practices that must be taken into account when developing these industries.
-For Project Paramarth and Grievance redressal system and crowdsourcing information from people - There was a lot depending on the willingness of volunteers to participate and help others. We had difficulty in finding and retaining volunteers in rural areas as there were limited incentives or rewards for their participation. Also, providing care for elderly or helpless individuals poses safety risks for both the volunteers and the individuals receiving care so we had to consider the safety concerns involved. Developing a sustainable project that can continue to provide help and support to the community over time requires careful planning and management. We found it difficult to ensure the long-term viability and impact of the projects.
-
-3.
-For Embedding QR codes with important information - Rural areas have diverse languages and dialects spoken by the community members. We had to consider how to communicate the information effectively in a way that is understood by everyone in the community. QR codes also require maintenance and regular updating to ensure that the information is accurate and up-to-date which is difficult to ensure due to illiteracy and communication gap. Implementing new technology and systems faces resistance from community members who are used to traditional ways of accessing information which was a major point of concern. 
-
-4.
-For Biogas plants, Wind energy harvesting devices, and Solar cookers - Rural areas often lack the necessary infrastructure, such as electricity and water supply, to support the development of the above-mentioned devices. This created challenges in designing and implementing them. It was also challenging to ensure that they maintain these devices and ensure their proper functioning. 
-Pedal Power Generator -  Rural areas have limited access to skilled labour, which makes it difficult to build and maintain the generator. We have to provide training to local community members or collaborate with local organisations to access the necessary skills and knowledge. In order to provide benefits to the community over time, requires careful planning and management which we found difficult to ensure.
-Finally, we decided to go with a solar energy water filtration system because the availability of clean drinking water is a significant problem in rural areas and water is essential for life.
 
 == Design
 
 === Components
 
+==== Solar panel
+
+A solar panel is a crucial part of a solar water filtration system that provides a sustainable and reliable power source for the system to function. To construct a cost-effective solar water filtration system, it is necessary to consider the specific needs and resources of the user and select affordable, locally available materials such as PVC pipes, sand, gravel, activated carbon, and a plastic water tank. Once the filtration system is built, the solar panel should be mounted on a sturdy frame or structure in an area that receives maximum sunlight exposure. A charge controller, battery, and pump should be connected to the solar panel to ensure a consistent flow of power.
+
+A well-built and maintained solar water filtration system provides an affordable and sustainable solution for accessing clean and safe drinking water while reducing reliance on traditional energy sources. Regular maintenance and cleaning of the filtration system are essential to ensure its long-term efficiency and effectiveness. Overall, constructing a solar water filtration system is a practical and cost-effective way to provide access to safe drinking water, especially in areas with limited access to electricity and clean water sources.
+
+We would be using this website https://grabcad.com/library/mini-solar-module-for-electronics-1 as our inspiration to design and properly assemble CAD models for a solar panel. 
+
+==== Battery 
+
+A rechargeable battery is a type of energy storage device that can store electricity from a solar panel or another power source. In a solar water filtration system, a rechargeable battery is used to store the energy generated by the solar panels during the day, which can be used to power the filtration system at night or during periods of low sunlight. This is used in a solar water filtration system and is typically a deep-cycle battery, which is designed to provide a steady and consistent flow of power over an extended period of time. Deep-cycle batteries are different from traditional car batteries, which are designed to provide a high burst of power for short periods.
+
+The most common type of rechargeable battery used in solar water filtration systems is a lead-acid battery. These batteries are reliable and cost-effective, making them a popular choice for off-grid applications.
+
+The battery is usually connected to the solar panel and the booster pump through a charge controller, which regulates the flow of power to the battery and prevents overcharging or discharging. The charge controller also ensures that the battery is charged efficiently and prolongs its lifespan. The size and capacity of the rechargeable battery depend on the size of the solar water filtration system and the amount of power needed to operate the pump and other components. Larger systems may require multiple batteries or higher-capacity battery to ensure reliable operation.
+
+Specifications of the Rechargeable Battery which we are going to use: 
+Type: Lithium-ion
+Capacity: 3000mAh 
+Voltage: 3.7V 
+Charging time: 4-5 hours 
+Discharging time: 8-10 hours 
+
+==== RO membrane
+
+Reverse osmosis(RO) is a water purification technology that uses a semipermeable membrane to remove ions, molecules, and larger particles from water. The RO membrane used in a solar water filtration system is a critical component that separates clean water from the feed water. RO membranes are made of a thin layer of semi-permeable material, typically made from cellulose acetate, polyamide, or polysulfone. The membrane has a dense layer that acts as a barrier to the contaminants while allowing water molecules to pass through. This filtration process occurs under pressure, which forces the water through the membrane, leaving behind any impurities.
+
+In a solar water filtration system, the RO membrane works in conjunction with a solar-powered pump and a series of pre-filters to purify water from sources such as rivers, lakes, or groundwater. The system works by using the energy from the sun to power the pump, which pulls water from the source and pushes it through the pre-filters and the RO membrane. The resulting purified water is then collected in a storage tank for later use.
+
+==== Booster pump
+
+A booster pump is an electrically powered device that helps increase the pressure of water flowing through a system.
+Solar panels used for water filtration typically require a certain level of pressure to function effectively.
+If the pressure is too low, the solar panels may not be able to filter water efficiently, reducing their overall effectiveness.
+A booster pump can help increase the pressure of water flowing through the system, ensuring that the solar panels are able to operate at their optimal level.
+The booster pump can be installed in line with the solar panel system, helping to push water through the system at a higher pressure.
+Depending on the specific system, a booster pump may need to be sized appropriately to ensure it can provide the necessary pressure.
+
+
+==== Solenoid valve
+
+A solenoid valve is an electrically controlled valve that is used to regulate the flow of fluid, such as water, in a plumbing system.
+
+Solenoid valves consist of a coil of wire that, when energized, creates a magnetic field that opens or closes a valve mechanism.
+In the context of filtering water through solar panels, solenoid valves can be used to control the flow of water in and out of the panels.
+
+This allows the system to be automated so that water is only allowed to flow through the panels when needed, and not continuously.
+
+This can help to optimize the system's efficiency, by reducing the amount of water that needs to be pumped through the panels, and by preventing water from overheating in the panels when they are not in use.
+
+Solenoid valves can also be used to control the direction of water flow, so that water can be diverted away from the panels when they need to be cleaned or maintained.
+
+Assembly of a solenoid valve which we are trying to make : https://wicvalve.com/15-Inch-Electric-General-Purpose-Air-Water-Solenoid-Valve-NC-2BCW-1-1-2-D.htm
+
+
 === Working Principle
 The process of movement of solvent (water, in this case),  through a semipermeable membrane from the solution (unpurified water) to the pure solvent by applying excess pressure on the solution side, to overcome osmotic pressure is called Reverse Osmosis (RO). In the normal osmosis process, which is driven by chemical potential differences of the solvent, a thermodynamic parameter, the water moves from low solute concentration to high solute concentration. In the RO process, the movement is in the opposite direction. In RO desalination almost all (around 95 to 99%) dissolved salts are filtered into the rejected stream, and solar-powered RO desalination can reduce or interrupt the dependency on conventional energy fossil fuels, reduces additional costs and results in environmental safety with sustainability and a disease-free community. A solar PV module (a series connected sufficient number of solar cells to provide required standard output voltage and power) can be used to act as a power supply for operating functions for desalination, such as a booster pump to pressurise the water flow into RO desalination elements through a rack of vessels containing semi-permeable membranes.
 
 === Block Diagram
+
 image::BlockDiagram.jpeg[]
 
 === Process
+
+Solar PV module extracting solar energy whenever available and storing it in a battery. This energy is then used to purify water. In our design, water (unpurified) from a natural source flows through the hoses as shown in the figure, and is pumped through the filtration membrane (RO Unit) which provides purified water at the other end of the membrane where it is stored. The purified water can now be extracted through a tap and used for drinking, dish washing etc.
 
 image::Process.png[]
 
 === Evaluation criteria of the project
 
 === Scope of the project
+
 These are the techniques that can be added to the project:
 
 UV filtration: UV filtration can be added to the project to further purify the water. UV filtration uses ultraviolet light to kill bacteria and viruses, making it an effective method for water treatment.The effectiveness of UV filtration depends on several factors, including the intensity of the UV light, the exposure time of the water to the UV light, and the water quality. The water must be pre-treated to remove any particles or debris that could block the UV light from reaching the microorganisms in the water.
@@ -254,23 +619,28 @@ Mobile unit: Designing the system as a mobile unit can allow it to be easily tra
 == Product Development
 
 == Challenges
-Challenges:
+
 Reverse osmosis water purification with solar electricity can be a practical method for supplying clean drinking water in off-grid remote places. To make this approach possible and effective, though, a number of issues must be resolved. Some of these difficulties include:
 
-1. Energy requirements: Reverse osmosis requires a lot of energy to operate, and solar power may not always be able to supply the system with the energy it needs. The amount of energy needed can change based on the water source's quality, the system's capacity, and the surrounding conditions.
+=== Energy requirements
+Reverse osmosis requires a lot of energy to operate, and solar power may not always be able to supply the system with the energy it needs. The amount of energy needed can change based on the water source's quality, the system's capacity, and the surrounding conditions.
 
-2. Water quality: Although reverse osmosis can effectively remove a variety of pollutants, including germs and viruses, it might not be able to remove all of them. To ensure that the water satisfies the necessary quality standards, pre-treatment of the water may be necessary.
+=== Water quality
+Although reverse osmosis can effectively remove a variety of pollutants, including germs and viruses, it might not be able to remove all of them. To ensure that the water satisfies the necessary quality standards, pre-treatment of the water may be necessary.
 
-3. Membrane fouling: Reverse osmosis systems might lose efficiency as a result of clogged membranes caused by impurities over time. In places with large concentrations of dissolved solids or organic materials, this may be a particular issue.
+=== Membrane fouling
+Reverse osmosis systems might lose efficiency as a result of clogged membranes caused by impurities over time. In places with large concentrations of dissolved solids or organic materials, this may be a particular issue.
 
-4. Maintenance: Reverse osmosis systems fueled by solar must undergo routine maintenance to keep working properly. In remote locations where qualified specialists might not be easily accessible, this can be difficult.
+=== Maintenance
+Reverse osmosis systems fueled by solar must undergo routine maintenance to keep working properly. In remote locations where qualified specialists might not be easily accessible, this can be difficult.
 
-5. Cost: Reverse osmosis systems that run on solar energy can be pricey to construct and operate. Some groups, especially those in developing countries, may find the cost of the system to be prohibitive.
+=== Cost
+Reverse osmosis systems that run on solar energy can be pricey to construct and operate. Some groups, especially those in developing countries, may find the cost of the system to be prohibitive.
 
-6. Water scarcity: Reverse osmosis systems might not be a good option in places with a limited supply of water because they need a lot of water to run and maintain them.
+=== Water scarcity
+Reverse osmosis systems might not be a good option in places with a limited supply of water because they need a lot of water to run and maintain them.
 
 To ensure that solar-powered reverse osmosis systems are long-lasting and efficient in supplying clean drinking water to underserved populations, these issues must be addressed. This will take a mix of technical know-how, financial commitment, and community involvement.
-
 
 == Discussion and Future Work
 
@@ -291,6 +661,7 @@ Our project aimed to address the problem of clean drinking water scarcity in rur
 Our project was aligned with the DoXFroY approach, which prioritizes the needs of the end-users and focuses on developing impactful and sustainable solutions. We believe that by adopting this approach, we can design and develop innovative solutions that are more effective, impactful, and sustainable and that meet the unique needs of the communities we are trying to serve. 
 
 In conclusion, our project highlights the importance of community-driven problem-solving and the potential of sustainable solutions to address critical social and environmental issues. We hope that our work can inspire others to adopt a similar approach and contribute to creating a more equitable and sustainable world.
+
 
 == Glossary
 
