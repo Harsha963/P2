@@ -1,0 +1,7 @@
+.footnote {
+  text-align: center;
+}
+
+.footnote .footnote-number:before {
+  content: "\00a0\00a0";
+}
