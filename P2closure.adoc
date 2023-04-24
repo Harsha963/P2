@@ -198,10 +198,18 @@ Digester material: Fiberglass reinforced plastic
 Gas utilization: Cooking, lighting, heating
 
 A lot of ideas were discussed to improve rural India and many products along with their requirements and specifications were also discussed. Some of the ideas that we discussed that would be helpful for people along with why we did not consider them are:
+
+1. 
 For Rechargeable batteries - Rural areas present many environmental challenges such as extreme temperatures, humidity, and dust, which can impact the performance of the battery. We found it difficult to solve these challenges while discussing the specifications of the battery. It was also important to design a battery that is easy to use and maintain. We had to consider the usability of the battery and ensure that it is user-friendly for rural people. They can pose safety risks if not used and designed correctly. 
+
+2.
 For the Network of health centres and Development of human resources(Under Systemic level changes) - As these industries are heavily regulated, we had to consider how to navigate the regulations and policies related to establishing and maintaining them in rural areas. They often have a shortage of professionals, which makes it challenging to staff and maintain these industries. We had to consider how to attract and retain professionals in rural areas. Rural communities also may have unique cultural beliefs and practices that must be taken into account when developing these industries.
 For Project Paramarth and Grievance redressal system and crowdsourcing information from people - There was a lot depending on the willingness of volunteers to participate and help others. We had difficulty in finding and retaining volunteers in rural areas as there were limited incentives or rewards for their participation. Also, providing care for elderly or helpless individuals poses safety risks for both the volunteers and the individuals receiving care so we had to consider the safety concerns involved. Developing a sustainable project that can continue to provide help and support to the community over time requires careful planning and management. We found it difficult to ensure the long-term viability and impact of the projects.
+
+3.
 For Embedding QR codes with important information - Rural areas have diverse languages and dialects spoken by the community members. We had to consider how to communicate the information effectively in a way that is understood by everyone in the community. QR codes also require maintenance and regular updating to ensure that the information is accurate and up-to-date which is difficult to ensure due to illiteracy and communication gap. Implementing new technology and systems faces resistance from community members who are used to traditional ways of accessing information which was a major point of concern. 
+
+4.
 For Biogas plants, Wind energy harvesting devices, and Solar cookers - Rural areas often lack the necessary infrastructure, such as electricity and water supply, to support the development of the above-mentioned devices. This created challenges in designing and implementing them. It was also challenging to ensure that they maintain these devices and ensure their proper functioning. 
 Pedal Power Generator -  Rural areas have limited access to skilled labour, which makes it difficult to build and maintain the generator. We have to provide training to local community members or collaborate with local organisations to access the necessary skills and knowledge. In order to provide benefits to the community over time, requires careful planning and management which we found difficult to ensure.
 Finally, we decided to go with a solar energy water filtration system because the availability of clean drinking water is a significant problem in rural areas and water is essential for life.
@@ -246,12 +254,19 @@ Mobile unit: Designing the system as a mobile unit can allow it to be easily tra
 == Challenges
 Challenges:
 Reverse osmosis water purification with solar electricity can be a practical method for supplying clean drinking water in off-grid remote places. To make this approach possible and effective, though, a number of issues must be resolved. Some of these difficulties include:
-1.Energy requirements: Reverse osmosis requires a lot of energy to operate, and solar power may not always be able to supply the system with the energy it needs. The amount of energy needed can change based on the water source's quality, the system's capacity, and the surrounding conditions.
+
+1. Energy requirements: Reverse osmosis requires a lot of energy to operate, and solar power may not always be able to supply the system with the energy it needs. The amount of energy needed can change based on the water source's quality, the system's capacity, and the surrounding conditions.
+
 2. Water quality: Although reverse osmosis can effectively remove a variety of pollutants, including germs and viruses, it might not be able to remove all of them. To ensure that the water satisfies the necessary quality standards, pre-treatment of the water may be necessary.
-3.Membrane fouling: Reverse osmosis systems might lose efficiency as a result of clogged membranes caused by impurities over time. In places with large concentrations of dissolved solids or organic materials, this may be a particular issue.
-4.Maintenance: Reverse osmosis systems fueled by solar must undergo routine maintenance to keep working properly. In remote locations where qualified specialists might not be easily accessible, this can be difficult.
-5.Cost: Reverse osmosis systems that run on solar energy can be pricey to construct and operate. Some groups, especially those in developing countries, may find the cost of the system to be prohibitive.
-6.Water scarcity: Reverse osmosis systems might not be a good option in places with a limited supply of water because they need a lot of water to run and maintain them.
+
+3. Membrane fouling: Reverse osmosis systems might lose efficiency as a result of clogged membranes caused by impurities over time. In places with large concentrations of dissolved solids or organic materials, this may be a particular issue.
+
+4. Maintenance: Reverse osmosis systems fueled by solar must undergo routine maintenance to keep working properly. In remote locations where qualified specialists might not be easily accessible, this can be difficult.
+
+5. Cost: Reverse osmosis systems that run on solar energy can be pricey to construct and operate. Some groups, especially those in developing countries, may find the cost of the system to be prohibitive.
+
+6. Water scarcity: Reverse osmosis systems might not be a good option in places with a limited supply of water because they need a lot of water to run and maintain them.
+
 To ensure that solar-powered reverse osmosis systems are long-lasting and efficient in supplying clean drinking water to underserved populations, these issues must be addressed. This will take a mix of technical know-how, financial commitment, and community involvement.
 
 
@@ -269,7 +284,11 @@ In conclusion, making DoXFroY a reality requires a combination of individual, or
 
 == Conclusion
 
+Our project aimed to address the problem of clean drinking water scarcity in rural India using a sustainable and affordable solution. We identified the need for a solar energy-supported water filtration system and ideated a prototype to meet the requirements of the communities. However, we also recognized the challenges and limitations of implementing such a solution and identified areas for future work. 
 
+Our project was aligned with the DoXFroY approach, which prioritizes the needs of the end-users and focuses on developing impactful and sustainable solutions. We believe that by adopting this approach, we can design and develop innovative solutions that are more effective, impactful, and sustainable and that meet the unique needs of the communities we are trying to serve. 
+
+In conclusion, our project highlights the importance of community-driven problem-solving and the potential of sustainable solutions to address critical social and environmental issues. We hope that our work can inspire others to adopt a similar approach and contribute to creating a more equitable and sustainable world.
 
 == Glossary
 
