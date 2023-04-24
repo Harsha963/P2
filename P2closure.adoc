@@ -1,5 +1,4 @@
 = Tribe D: Daringbaaz | Project DoXFroY | Requirements + Specifications + Design + Closure
-
 :authors: Shubham Kumar, Harshita Badiyasar, Hemali Priyadarshi
 :lang: en
 :toc:
@@ -10,6 +9,8 @@
 
 == Document Statistics
 
+===
+=== Readibility measures
 .Readability indices value
 [cols=">2, <7,3a, 4a",options="header",%autowidth.stretch,format=csv]
 |===
@@ -87,8 +88,7 @@ Sl. No.,Name,Entry,Email,Designation
 
 
 == Abstract
-In this document, we present to you some of the ideas we discussed to improve rural India, along with the requirements and specifications of each product. Some ideas we thought would be helpful are solar energy-supported water filtration systems, solar cookers, wind energy harvesting devices, and rechargeable batteries. We chose these ideas considering the requirements of people, the feasibility of these products, and the feasibility of using green energy to support these devices. The final demonstrable product we decided on is a solar energy-supported water filtration system. This is because the availability of clean drinking water is a significant problem in India. Not all villages can afford water treatment plants, mainly due to the cost of maintaining them. So we decided to reduce the cost by using solar energy. It is a one-time investment, and maintaining it is pretty simple.  Solar energy is also much cleaner than your usual conventional alternatives.  The document also explores the design and the working principle of this product including a block diagram.
-
+In this document, we present to you some of the ideas we discussed to improve rural India, along with the requirements and specifications of each product. Some ideas we thought would be helpful are solar energy-supported water filtration systems, solar cookers, wind energy harvesting devices, and rechargeable batteries. We chose these ideas considering the requirements of people, the feasibility of these products, and the feasibility of using green energy to support these devices. The final demonstrable product we decided on is a solar energy-supported water filtration system. This is because the availability of clean drinking water is a significant problem in India. Not all villages can afford water treatment plants, mainly due to the cost of maintaining them. So we decided to reduce the cost by using solar energy. It is a one-time investment, and maintaining it is pretty simple.  Solar energy is also much cleaner than your usual conventional alternatives.  The document also explores the design and the working principle of this product.
 == Background
  
 == Introduction
@@ -141,6 +141,71 @@ A lot of times a particular chapter of a book needs to be updated and the publis
 
 == Specifications
 
+=== Rechargeable battery
+
+Type: Lithium-ion
+
+Capacity: 3000 mAh
+
+Voltage: 3.7 V
+
+Charging time: 4-5 hours
+
+Discharging time: 8-10 hrs
+
+=== Wind energy harvesting devices
+
+Rated power output: 1-5kW
+
+Rotor diameter: 2-4 metres
+
+Cut-in wind speed: 3-4 m/s
+
+Rated wind speed: 10-12 m/s
+
+Cot-out wind speed: 20-25 m/s
+
+=== Solar-powered Water Filter
+
+Filter type: Reverse osmosis
+
+Filtration rate: 5-10 liters/hour
+
+Power source: Solar panel with battery backup
+
+Material: Stainless steel frame with polypropylene filters
+
+UV sterilization: not included
+
+=== Embedding QR code with necessary information
+
+QR code size: 1 inch x 1 inch
+
+Information stored: Website URL, contact details, product details
+
+Compatible devices: Smartphones and tablets with QR code readers
+
+=== Biogas plant
+
+Feedstock: Cow dung, poultry waste, agricultural waste
+
+Capacity: 5-10 cubic meters
+
+Gas output: 1-2 cubic meters per day
+
+Digester material: Fiberglass reinforced plastic
+
+Gas utilization: Cooking, lighting, heating
+
+A lot of ideas were discussed to improve rural India and many products along with their requirements and specifications were also discussed. Some of the ideas that we discussed that would be helpful for people along with why we did not consider them are:
+For Rechargeable batteries - Rural areas present many environmental challenges such as extreme temperatures, humidity, and dust, which can impact the performance of the battery. We found it difficult to solve these challenges while discussing the specifications of the battery. It was also important to design a battery that is easy to use and maintain. We had to consider the usability of the battery and ensure that it is user-friendly for rural people. They can pose safety risks if not used and designed correctly. 
+For the Network of health centres and Development of human resources(Under Systemic level changes) - As these industries are heavily regulated, we had to consider how to navigate the regulations and policies related to establishing and maintaining them in rural areas. They often have a shortage of professionals, which makes it challenging to staff and maintain these industries. We had to consider how to attract and retain professionals in rural areas. Rural communities also may have unique cultural beliefs and practices that must be taken into account when developing these industries.
+For Project Paramarth and Grievance redressal system and crowdsourcing information from people - There was a lot depending on the willingness of volunteers to participate and help others. We had difficulty in finding and retaining volunteers in rural areas as there were limited incentives or rewards for their participation. Also, providing care for elderly or helpless individuals poses safety risks for both the volunteers and the individuals receiving care so we had to consider the safety concerns involved. Developing a sustainable project that can continue to provide help and support to the community over time requires careful planning and management. We found it difficult to ensure the long-term viability and impact of the projects.
+For Embedding QR codes with important information - Rural areas have diverse languages and dialects spoken by the community members. We had to consider how to communicate the information effectively in a way that is understood by everyone in the community. QR codes also require maintenance and regular updating to ensure that the information is accurate and up-to-date which is difficult to ensure due to illiteracy and communication gap. Implementing new technology and systems faces resistance from community members who are used to traditional ways of accessing information which was a major point of concern. 
+For Biogas plants, Wind energy harvesting devices, and Solar cookers - Rural areas often lack the necessary infrastructure, such as electricity and water supply, to support the development of the above-mentioned devices. This created challenges in designing and implementing them. It was also challenging to ensure that they maintain these devices and ensure their proper functioning. 
+Pedal Power Generator -  Rural areas have limited access to skilled labour, which makes it difficult to build and maintain the generator. We have to provide training to local community members or collaborate with local organisations to access the necessary skills and knowledge. In order to provide benefits to the community over time, requires careful planning and management which we found difficult to ensure.
+Finally, we decided to go with a solar energy water filtration system because the availability of clean drinking water is a significant problem in rural areas and water is essential for life.
+
 == Design
 
 === Components
@@ -149,7 +214,7 @@ A lot of times a particular chapter of a book needs to be updated and the publis
 The process of movement of solvent (water, in this case),  through a semipermeable membrane from the solution (unpurified water) to the pure solvent by applying excess pressure on the solution side, to overcome osmotic pressure is called Reverse Osmosis (RO). In the normal osmosis process, which is driven by chemical potential differences of the solvent, a thermodynamic parameter, the water moves from low solute concentration to high solute concentration. In the RO process, the movement is in the opposite direction. In RO desalination almost all (around 95 to 99%) dissolved salts are filtered into the rejected stream, and solar-powered RO desalination can reduce or interrupt the dependency on conventional energy fossil fuels, reduces additional costs and results in environmental safety with sustainability and a disease-free community. A solar PV module (a series connected sufficient number of solar cells to provide required standard output voltage and power) can be used to act as a power supply for operating functions for desalination, such as a booster pump to pressurise the water flow into RO desalination elements through a rack of vessels containing semi-permeable membranes.
 
 === Block Diagram
-
+image::BlockDiagram.jpeg[]
 
 === Process
 
@@ -184,25 +249,36 @@ Reverse osmosis water purification with solar electricity can be a practical met
 1.Energy requirements: Reverse osmosis requires a lot of energy to operate, and solar power may not always be able to supply the system with the energy it needs. The amount of energy needed can change based on the water source's quality, the system's capacity, and the surrounding conditions.
 2. Water quality: Although reverse osmosis can effectively remove a variety of pollutants, including germs and viruses, it might not be able to remove all of them. To ensure that the water satisfies the necessary quality standards, pre-treatment of the water may be necessary.
 3.Membrane fouling: Reverse osmosis systems might lose efficiency as a result of clogged membranes caused by impurities over time. In places with large concentrations of dissolved solids or organic materials, this may be a particular issue.
-4.Maintanence: Reverse osmosis systems fueled by solar must undergo routine maintenance to keep working properly. In remote locations where qualified specialists might not be easily accessible, this can be difficult.
+4.Maintenance: Reverse osmosis systems fueled by solar must undergo routine maintenance to keep working properly. In remote locations where qualified specialists might not be easily accessible, this can be difficult.
 5.Cost: Reverse osmosis systems that run on solar energy can be pricey to construct and operate. Some groups, especially those in developing countries, may find the cost of the system to be prohibitive.
 6.Water scarcity: Reverse osmosis systems might not be a good option in places with a limited supply of water because they need a lot of water to run and maintain them.
 To ensure that solar-powered reverse osmosis systems are long-lasting and efficient in supplying clean drinking water to underserved populations, these issues must be addressed. This will take a mix of technical know-how, financial commitment, and community involvement.
 
 
 == Discussion and Future Work
+
 As a team, our work was related to DoXFroY because we followed a problem-solving approach that focused on the needs of specific communities. We sought to understand the challenges and problems faced by these communities and designed solutions that met their unique requirements. This approach enabled us to create impactful and sustainable solutions that were tailored to the needs of the beneficiaries.
+
 To make DoXFroY a reality, several actions can be taken. First, there needs to be a shift in mindset among individuals and organizations, where they prioritize the needs of the end-users or beneficiaries. This can be achieved by promoting empathy, encouraging active listening, and fostering cross-cultural understanding.
 Second, there needs to be more collaboration and partnerships between different stakeholders, including governments, non-profits, and the private sector. These partnerships can help leverage resources, expertise, and knowledge to develop more impactful and sustainable solutions.
+
 Third, education and training programs can be developed to promote the DoXFroY approach among individuals and organizations. This can include courses on design thinking, empathy, and human-centered design, among others.
 Finally, systemic level changes are needed to create an environment that supports the development and implementation of DoXFroY initiatives. This can include policy changes, funding mechanisms, and regulatory frameworks that prioritize social impact and innovation. By creating an enabling environment, systemic level changes can help to promote and scale the adoption of DoXFroY in different sectors and industries.
+
 In conclusion, making DoXFroY a reality requires a combination of individual, organizational, and systemic level changes. By adopting a DoXFroY approach, we can design and develop innovative solutions that are more effective, impactful, and sustainable, and that meet the unique needs of the communities we are trying to serve.
 
 == Conclusion
 
+
+
 == Glossary
+
 DoXFroY = *Do* anything(*X*) **Fro**m anywhere(*Y*)
+
 RO = Reverse Osmosis
+
+URL = Uniform Resource Locator
+
 
 == References
 
@@ -228,4 +304,5 @@ RO = Reverse Osmosis
 
 [11] WHO and UNICEF, "_Progress on drinking water, sanitation and hygiene: 2017 update and SDG baselines_", WHO & UNICEF, Geneva, Switzerland, 2017
 
-[12]R. M. Dahekar, A. Farsole, K. Pusadkar, M. Saini, S. Darwai, and S. Hinge, "Water purification system powered by solar energy," in Proceedings of the 2018 International Conference on Energy, Communication, Data Analytics and Soft Computing (ICECDS), Chennai, India, February 15-17, 2018, pp. 1683-1687.
+[12] R. M. Dahekar, A. Farsole, K. Pusadkar, M. Saini, S. Darwai, and S. Hinge, "_Water purification system powered by solar energy_", in Proceedings of the 2018 International Conference on Energy, Communication, Data Analytics and Soft Computing (ICECDS), Chennai, India, February 15-17, 2018, pp. 1683-1687
+
