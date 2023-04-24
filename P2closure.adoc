@@ -8,6 +8,11 @@ image::IITD.png[align="center", style="vertical-align: middle;"]
 :sectnums: all
 :stem: asciimath
 :stylesheet: styles.css
+:doctype: book
+:icons: font
+:revdate: 25-04-2023
+:version: 4.1
+
 
 
 == Document Statistics
@@ -89,6 +94,7 @@ Sl. No.,Name,Entry,Email,Designation,I.F.
 
 
 == Abstract
+
 In this document, we present to you some of the ideas we discussed to improve rural India, along with the requirements and specifications of each product. Some ideas we thought would be helpful are solar energy-supported water filtration systems, solar cookers, wind energy harvesting devices, and rechargeable batteries. We chose these ideas considering the requirements of people, the feasibility of these products, and the feasibility of using green energy to support these devices. The final demonstrable product we decided on is a solar energy-supported water filtration system. This is because the availability of clean drinking water is a significant problem in India. Not all villages can afford water treatment plants, mainly due to the cost of maintaining them. So we decided to reduce the cost by using solar energy. It is a one-time investment, and maintaining it is pretty simple.  Solar energy is also much cleaner than your usual conventional alternatives.  The document also explores the design and the working principle of this product including a block diagram.
 
 == Background
@@ -141,6 +147,7 @@ To make the culture of the future DoXFroY, we think the following are the system
 Electricity in rural areas of India is not present for 24x7 and the problem of power cut hinders technological adoption by the people living in those areas. People also have difficulties while working at night and have to rely on kerosene lamps and wicks for lighting their houses at night. Can we make a light bulb that is able to store energy when there is electricity and thus light up when it is dark during a power cut? The rechargeable bulb can be designed to charge from solar energy also.
 
 === Network of Health Centers
+
 The hospitals are concentrated in towns and it is not possible for people to approach them and they have to sometimes wait for getting necessary health services. In DoXFroY society, people should be able to avail health-related assistance and even emergency services from remote places without much delay. To make this idea a reality, a network of healthcare experts, nurses, doctors, and volunteers needs to be there spread throughout the geography of India which is a distributed network. There would be an app through which people in need of assistance would ask for help and the doctor in the vicinity of the person would get the signal and respond to it. If she comes to conclude that she needs certain blood units, medicines, vials of ointments, etc., she can contact it a nearby storehouse that will dispatch the necessary items with the help of drones to the destination upon receiving a request signal.
 
 A network of healthcare workers and centers could play a crucial role in enabling people to access medical treatment from anywhere in India. Here are some possible interventions that could be implemented through such a network - 
@@ -237,30 +244,39 @@ QR codes can be used to provide education information to students in remote area
 
 QR codes can be used to provide financial information to people in remote areas. For example, a QR code can be embedded on a bank account statement, which, when scanned, provides information about account balances, transactions, and interest rates. This can help improve financial literacy and enable people to make better financial decisions.
 
-Requirements:
-
 In the context of updating books, QR codes can be used to provide readers with access to a range of information related to the book, such as:
 
+Updated text: QR codes can be used to provide updated text for a chapter or section of the book that needs to be corrected.
 
-    1. Updated text: QR codes can be used to provide updated text for a chapter or section of the book that needs to be corrected.
-    2. Multimedia content: QR codes can be used to provide multimedia content such as videos, audio recordings, or images that supplement the book content
-    3. Additional resources: QR codes can be used to provide links to additional resources such as websites, articles, or research papers related to the book content
-    4. Author information: QR codes can be used to provide readers with information about the author or the publishing house, including their contact information, social media profiles, and other relevant details
-    5. Feedback mechanism: QR codes can be used to provide readers with a feedback mechanism where they can send their comments, questions, or suggestions related to the book content
+Multimedia content: QR codes can be used to provide multimedia content such as videos, audio recordings, or images that supplement the book content
+
+Additional resources: QR codes can be used to provide links to additional resources such as websites, articles, or research papers related to the book content
+
+Author information: QR codes can be used to provide readers with information about the author or the publishing house, including their contact information, social media profiles, and other relevant details
+
+Feedback mechanism: QR codes can be used to provide readers with a feedback mechanism where they can send their comments, questions, or suggestions related to the book content.
 
 Overall, the information embedded in QR codes will depend on the purpose and context of the book and the type of updates required. QR codes provide a flexible and easy-to-use mechanism for delivering updated information and enhancing the reading experience
 
 When designing QR codes to embed in books, it is important to consider the following characteristics:
 
+Size: The size of the QR code should be large enough to ensure that it can be easily scanned by a smartphone or tablet, but not so large that it takes up too much space on the book
 
-    1. Size: The size of the QR code should be large enough to ensure that it can be easily scanned by a smartphone or tablet, but not so large that it takes up too much space on the book
-    2. Contrast: The QR code should have a high contrast with the background on which it is printed to ensure that it can be easily scanned
-    3. Error correction: The QR code should have error correction capabilities, which can help to ensure that the code can be accurately scanned even if it is partially damaged or obscured
-    4. Encoding: The QR code should be encoded with the appropriate information, including links, text, or other relevant data
-    5. Testing: The QR code should be thoroughly tested to ensure that it can be accurately scanned by a variety of devices and under different lighting conditions
-    6. Accessibility : It is also important to ensure that the QR code is placed in a location that is easily visible and accessible to readers, and that it does not interfere with the readability or usability of the book
-    7. Additionally, it is important to make sure that the QR code sticker is securely attached to the book and will not fall off or become damaged over time
-    8. Solar Cooker - In India's rural areas, the concept of a solar cooker might be used to offer a viable and reasonably priced method of preparing meals.  
+Contrast: The QR code should have a high contrast with the background on which it is printed to ensure that it can be easily scanned
+
+Error correction: The QR code should have error correction capabilities, which can help to ensure that the code can be accurately scanned even if it is partially damaged or obscured
+
+Encoding: The QR code should be encoded with the appropriate information, including links, text, or other relevant data
+
+Testing: The QR code should be thoroughly tested to ensure that it can be accurately scanned by a variety of devices and under different lighting conditions
+
+Accessibility : It is also important to ensure that the QR code is placed in a location that is easily visible and accessible to readers, and that it does not interfere with the readability or usability of the book
+
+Additionally, it is important to make sure that the QR code sticker is securely attached to the book and will not fall off or become damaged over time
+  
+  
+  
+  8. Solar Cooker - In India's rural areas, the concept of a solar cooker might be used to offer a viable and reasonably priced method of preparing meals.  
     • Remote area cooking : In isolated locations with scant or no access to power or cooking fuel, meals can be cooked using solar cookers. This may lessen the need for conventional cooking fuels like firewood, which can destroy forests and contribute to air pollution.
     • Community kitchens: Hot meals might be served to people in far-off places using solar cookers. In places with no separate homes or where people live near to one another, this could be extremely helpful.
     • Disaster Assistance: People afflicted by natural disasters or other situations may receive hot meals thanks to the usage of solar cookers in disaster relief initiatives. Solar cookers may be used even in places without access to electricity or gas because they don't need any additional fuel sources.
