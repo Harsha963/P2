@@ -226,6 +226,8 @@ image::BlockDiagram.jpeg[]
 
 === Process
 
+image::Process.png[]
+
 === Evaluation criteria of the project
 
 === Scope of the project
