@@ -1,6 +1,3 @@
-image::IITD.png[IITD Logo, 200, 200, float="right", align="center"]
-
-
 = Tribe D: Daringbaaz | Project DoXFroY | Requirements + Specifications + Design + Closure
 :authors: Shubham Kumar, Harshita Badiyasar, Hemali Priyadarshi, Harsha Patnala
 :lang: en
@@ -14,12 +11,13 @@ image::IITD.png[IITD Logo, 200, 200, float="right", align="center"]
 
 === Word Count
 === Readibility measures
+
 .Readability indices value
 [cols=">2, <7,3a, 4a",options="header",%autowidth.stretch,format=csv]
+
 |===
 
 Sl. No.,Index,Value,Range
-
 1,Gunning Fog,0,0-20
 2,Flesch Reading Ease,0,0-100
 3,Coleman-Liau Index,0,0-(17+)
@@ -32,23 +30,21 @@ Sl. No.,Index,Value,Range
 == Team Details
 
 .Detail of team members and their responsibilities
-
 [cols=">2, <7, 4a, 7a, 5a,2a",options="header",%autowidth.stretch,format=csv]
 
 |===
 
 Sl. No.,Name,Entry,Email,Designation,I.F.
-
 1,Shubham Kumar,2020EE30627,ee3200627@iitd.ac.in,Tribe Coordinator,1
 2,Harshita Badiyasar,2020MT10807,mt1200807@iitd.ac.in,Sub-Coordinator,1
 3,Hemali Priyadarshi,2020EE30597,ee3200597@iitd.ac.in,Sub-Coordinator,1
-4,Shiva Kumar Vallala,2020MT10848,mt1200848@iitd.ac.in,Sub-Coordinator,1
+4,Shiva Kumar Vallala,2020MT10848,mt1200848@iitd.ac.in,Sub-Coordinator,0.9
 5,Anmol S,2020EE10471,ee1200471@iitd.ac.in,Research,1
 6,Harshita Kurre,2020EE30596,ee3200596@iitd.ac.in,Research,1
 7,Kartikey Agarwal,2020EE10505,ee1200505@iitd.ac.in,Research,1
 8,Mannepalli Chandra Sekhar,2020MT10818,mt1200818@iitd.ac.in,Research,1
 9,Nishant Agarwal,2020MT10828,mt1200828@iitd.ac.in,Research,1
-10,Priyanshu Sharma,2020MT10678,mt1200678@iitd.ac.in,Research,1
+10,Priyanshu Sharma,2021MT10678,mt1200678@iitd.ac.in,Research,1
 11,Rama Bharti,2020MT10834,mt1200834@iitd.ac.in,Research,1
 12,Saksham Singh,2020MT10841,mt1200841@iitd.ac.in,Research,1
 13,Sania Goyal,2020MT10842,mt1200842@iitd.ac.in,Research,1
@@ -73,7 +69,7 @@ Sl. No.,Name,Entry,Email,Designation,I.F.
 32,Kishan Kumar Jangde,2020EE10506,ee1200506@iitd.ac.in,Ideation,1
 33,Neeraj Sharma,2020MT60885,mt6200885@iitd.ac.in,Ideation,1
 34,Prashant Kumar,2020EE10525,ee1200525@iitd.ac.in,Ideation,1
-35,Praveen Singh,2020EE30616,ee3200616@iitd.ac.in,Ideation,1
+35,Praveen Singh,2020EE30616,ee3200616@iitd.ac.in,Ideation,0.9
 36,Prisha Jain,2020MT60886,mt6200886@iitd.ac.in,Ideation,1
 37,Priyansh Agrawal,2019EE30591,ee3190591@iitd.ac.in,Ideation,1
 38,Raparthi Akshita,2020EE10538,ee1200538@iitd.ac.in,Ideation,1
@@ -131,58 +127,18 @@ In summary, to enable remote work, a combination of infrastructure, technology, 
  
 == Introduction
 
-DoXFroY means *Do* anything(*X*) **Fro**m anywhere(*Y*). With the advent
-of technologies, communication, transportation, and innovation have become
-easier with time. People living in metropolitan areas are able to access
-the necessary commodities and are benefitting from it, but in stark
-contrast is the picture in rural areas where in some places electricity
-and internet technologies are yet to reach. Even in metropolitan areas,
-it is not that the living conditions of people are good at all places.
-People have to toil hard to maintain their living standards in those
-costly cities. There is a dire need for systemic level changes and
-technological innovations which will make it easier for people to do
-their work and avail the necessary services from anywhere. This solution
-should also be devised keeping in mind its sustainability. The following
-project is a step further in that direction. We are trying to find
-possible interventions and changes which would drive the future in the
-direction of making DoXFroY culture ubiquitous and sustainable.
+DoXFroY means *Do* anything(*X*) **Fro**m anywhere(*Y*). With the advent of technologies, communication, transportation, and innovation have become easier with time. People living in metropolitan areas are able to access the necessary commodities and are benefitting from it, but in stark contrast is the picture in rural areas where in some places electricity and internet technologies are yet to reach. Even in metropolitan areas, it is not that the living conditions of people are good at all places. People have to toil hard to maintain their living standards in thosecostly cities. There is a dire need for systemic level changes and technological innovations which will make it easier for people to do their work and avail the necessary services from anywhere. This solution should also be devised keeping in mind its sustainability. The following project is a step further in that direction. We are trying to find possible interventions and changes which would drive the future in the direction of making DoXFroY culture ubiquitous and sustainable.
 
 == Requirements
 
-To make the culture of the future DoXFroY, we think the following are
-the systemic changes and technological interventions which are needed:
+To make the culture of the future DoXFroY, we think the following are the systemic changes and technological interventions which are needed:
 
 === Rechargeable battery
 
 Electricity in rural areas of India is not present for 24x7 and the problem of power cut hinders technological adoption by the people living in those areas. People also have difficulties while working at night and have to rely on kerosene lamps and wicks for lighting their houses at night. Can we make a light bulb that is able to store energy when there is electricity and thus light up when it is dark during a power cut? The rechargeable bulb can be designed to charge from solar energy also.
 
-==== Cost Requirements
-It should be affordable to the people of low-income groups and also to the people who are below the poverty line.
-
-==== Structural Requirements
-It should be lightweight and easy to carry.
-
-==== Efficiency Requirements
-The battery should be able to light up the bulb for sufficient time to satisfy the need of people.
-
 === Network of Health Centers
 The hospitals are concentrated in towns and it is not possible for people to approach them and they have to sometimes wait for getting necessary health services. In DoXFroY society, people should be able to avail health-related assistance and even emergency services from remote places without much delay. To make this idea a reality, a network of healthcare experts, nurses, doctors, and volunteers needs to be there spread throughout the geography of India which is a distributed network. There would be an app through which people in need of assistance would ask for help and the doctor in the vicinity of the person would get the signal and respond to it. If she comes to conclude that she needs certain blood units, medicines, vials of ointments, etc., she can contact it a nearby storehouse that will dispatch the necessary items with the help of drones to the destination upon receiving a request signal.
-
-=== Project "Paramarth"
-People need help sometimes with their work or with their chores. Old people face difficulty in getting some of their work done and might need care as they might be helpless at times with nobody to care for around them. Some people might be seeking some friend to whom they can talk and share some moments so that they do not feel lonely. If we can create a network where people can raise a help request and the potential helpers living in the vicinity might receive it and respond to it then the community would be a much better place to live in. We can give tokens to people who are helping others and one might have to expend some of them to get help. We can also provide extra tokens to old age people or to helpless people.
-
-=== Embedding QR code with important information
-A lot of times a particular chapter of a book needs to be updated and the publishers or governments have to retract all the books back and make available new books after the necessary correction. This leads this process to be practically impossible due to the complexity of the logistics involved. We can stick books with stickers containing QR codes that will contain the updated information which was meant to be transmitted. This will make the process of updating the book easier and make information updates seamless across the country.
-
-=== Biogas plant
-
-=== Project Paramarth
-
-It is an effort to create technical and system-level solutions that are scalable, sustainable, and economical and would enable individuals to access all of their needs from wherever in India. The initiative intends to eliminate the necessity for individuals to relocate to cities and metropolises in order to meet their basic and advanced requirements by enabling them to live meaningful and rewarding lives while remaining in their current communities. The goal of the project is to create and develop cutting-edge technology and system-level interventions that will allow Indian individuals to select where they want to live, where they want to work, and where they can get everything they need without having to move.
-
-The project team will be required to create a variety of technologies and systems, including strong internet connectivity, telemedicine, e-commerce platforms, remote work solutions, and more, to accomplish these aims. To make sure that the interventions are long-lasting, reasonably priced, and available to everyone, the project will probably require cooperation from a variety of sectors and stakeholders, including government organizations, for-profit businesses, NGOs, and local communities.
-
-=== Network of Health Care Workers and Centers
 
 A network of healthcare workers and centers could play a crucial role in enabling people to access medical treatment from anywhere in India. Here are some possible interventions that could be implemented through such a network - 
 
@@ -193,6 +149,7 @@ Healthcare professionals and facilities might provide telemedicine services to p
 ==== Remote patient sensing
 
 Healthcare professionals and facilities might follow the health of patients with chronic diseases or those who require after surgery care using remote monitoring technologies. Patients might submit their health information to healthcare providers using wearable technology or other remote monitoring tools so that they can monitor the patient's status and take appropriate action if necessary.
+
 ==== Mobile medical clinics
 
 With the right tools and resources, medical personnel may go to far-flung locations in mobile clinics. These clinics could give basic medical treatment, carry out diagnostic procedures, or even perform small surgeries.
@@ -203,61 +160,82 @@ Hospitals and other healthcare facilities might employ technology to control the
 
 In general, a network of medical professionals and facilities might be extremely important in ensuring that residents of remote locations have access to high-quality medical treatment. Healthcare services might be provided more effectively and efficiently by utilizing technology and innovation, aiding in closing the access divide between urban and rural healthcare.
 
+
+=== Project Paramarth
+
+People need help sometimes with their work or with their chores. Old people face difficulty in getting some of their work done and might need care as they might be helpless at times with nobody to care for around them. Some people might be seeking some friend to whom they can talk and share some moments so that they do not feel lonely. If we can create a network where people can raise a help request and the potential helpers living in the vicinity might receive it and respond to it then the community would be a much better place to live in. We can give tokens to people who are helping others and one might have to expend some of them to get help. We can also provide extra tokens to old age people or to helpless people.
+
 === Grievance redressal system and crowdsourcing information from people
 
-A grievance redressal system could be set up to address issues faced by citizens in accessing basic services or in using the DoXFoX initiative. This system could include a helpline number, online platform, or mobile application where citizens can register their grievances and track their progress. The system could also be integrated with government agencies or service providers to ensure that complaints are resolved in a timely and effective manner.
+A grievance redressal system could be set up to address issues faced by citizens in accessing basic services or in using the DoXFoY initiative. This system could include a helpline number, online platform, or mobile application where citizens can register their grievances and track their progress. The system could also be integrated with government agencies or service providers to ensure that complaints are resolved in a timely and effective manner.
 
-Crowdsourcing information from citizens could help to identify the needs and concerns of people living in remote areas. This could be done through surveys, focus groups, or social media platforms. The information gathered could be used to inform the development of new services or technologies as part of the DoXFoX initiative. Also, community feedback mechanisms could be established to encourage citizen participation and engagement. This could include town hall meetings, community forums, or feedback boxes located in public places. These mechanisms could provide a platform for citizens to voice their concerns, provide feedback on existing services, and suggest new ideas for the DoXFoX initiative.
+Crowdsourcing information from citizens could help to identify the needs and concerns of people living in remote areas. This could be done through surveys, focus groups, or social media platforms. The information gathered could be used to inform the development of new services or technologies as part of the DoXFoY initiative. Also, community feedback mechanisms could be established to encourage citizen participation and engagement. This could include town hall meetings, community forums, or feedback boxes located in public places. These mechanisms could provide a platform for citizens to voice their concerns, provide feedback on existing services, and suggest new ideas for the DoXFoX initiative.
 
 === Biogas Plant
+
 The idea of a biogas plant could be used to provide sustainable energy solutions in remote areas of India. It could be beneficial in the following ways –
 
 ==== Cooking fuel 
+
 Biogas plants could be used to provide cooking fuel in remote areas where there is limited or no access to electricity or cooking gas. The biogas produced from the plant could be used in stoves or burners for cooking, replacing traditional cooking fuels such as firewood or charcoal. This can help reduce deforestation and indoor air pollution.
 
 ==== Electricity Generation
+
 Biogas plants can also be used to generate electricity in remote areas where there is no access to the grid. The electricity generated can be used for lighting, powering appliances, or even for running small businesses. This can provide a sustainable and affordable energy source for people living in these areas.
 
 ==== Waste management 
+
 Biogas plants can be used to manage organic waste, such as food waste, animal waste, or agricultural waste. The waste is fed into the plant, where it is broken down by bacteria to produce biogas and organic fertilizer. This can help reduce the amount of waste that ends up in landfills, and provide a valuable source of fertilizer for agricultural use.
 
 ==== Employment Opportunities 
+
 The establishment and maintenance of biogas plants can create employment opportunities in rural areas. Local entrepreneurs could set up and run biogas plants, providing a valuable service to the community while also generating income.
 
-==== Rechargeable battery 
-The idea of a rechargeable battery can be used in various ways as part of the DoXFoX initiative to provide sustainable and affordable energy solutions in remote areas of India. Here are some ways in which rechargeable batteries can be used:
+=== Rechargeable battery 
+
+The idea of a rechargeable battery can be used in various ways as part of the DoXFoX initiative to provide sustainable and affordable energy solutions in remote areas of India. Here are some ways in which rechargeable batteries can be used - 
 
 ==== Off-grid electricity
+
 Rechargeable batteries can be used to store electricity generated from renewable sources such as solar panels or wind turbines. This stored energy can then be used to power homes, appliances, or small businesses, providing a sustainable and reliable off-grid electricity solution.
 
 ==== Electric vehicles
+
 Rechargeable batteries can also be used in electric vehicles, providing a sustainable and clean mode of transportation. This can be particularly useful in rural areas where transportation options are limited.
 
 ==== Backup power
+
 Rechargeable batteries can be used as backup power sources in case of power outages. This can be particularly useful in areas where power outages are frequent, and can help ensure that critical services such as healthcare facilities and communication networks remain operational.
 
-==== Wind energy harvesting devices
+=== Wind energy harvesting devices
+
 Small wind turbines can be installed in remote areas to generate electricity. These turbines can be used to power homes, schools, health clinics, or small businesses, providing a sustainable and reliable off-grid electricity solution. Small wind turbines can also be used in combination with other renewable energy sources such as solar panels to provide a hybrid energy system. Portable wind turbines can also be used to provide electricity in areas where there is no access to electricity, or where access is limited. These turbines can be set up in minutes and can be used to power small devices such as phones, laptops, or lamps.
 
 Wind energy can be used to power water pumps in remote areas, providing a sustainable and reliable source of water. This can be particularly useful in areas where access to clean water is limited.
 
 
 === Embedding QR code with necessary information 
-The use of QR codes as part of the DoXFoX initiative can help improve access to information and services in remote areas of India, making it easier for people to access the information they need to make informed decisions about their health, education, finances, and more. Here are some ways in which QR codes can be used:
-    
+
+The use of QR codes as part of the DoXFoX initiative can help improve access to information and services in remote areas of India, making it easier for people to access the information they need to make informed decisions about their health, education, finances, and more. Here are some ways in which QR codes can be used - 
+
 ==== Healthcare information
+
 QR codes can be used to provide healthcare information to patients in remote areas. For example, a QR code can be embedded on a medication package, which, when scanned, provides information about the medication, dosage, side effects, and instructions for use. This can help improve patient safety and reduce the risk of medication errors.
 
 ==== Agricultural information
+
 QR codes can be used to provide agricultural information to farmers in remote areas. For example, a QR code can be embedded on a seed package, which, when scanned, provides information about the seed, planting instructions, and recommended fertilizers. This can help improve crop yield and reduce waste.
 
 ==== Education information
+
 QR codes can be used to provide education information to students in remote areas. For example, a QR code can be embedded on a textbook, which, when scanned, provides additional information, videos, or interactive learning activities. This can help improve the quality of education and make learning more engaging and interactive.
 
 ==== Financial information
+
 QR codes can be used to provide financial information to people in remote areas. For example, a QR code can be embedded on a bank account statement, which, when scanned, provides information about account balances, transactions, and interest rates. This can help improve financial literacy and enable people to make better financial decisions.
 
 Requirements:
+
 In the context of updating books, QR codes can be used to provide readers with access to a range of information related to the book, such as:
 
 
