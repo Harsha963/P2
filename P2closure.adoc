@@ -5,6 +5,7 @@
 :sectids:
 :sectnums: all
 :stem: asciimath
+:stylesheet: styles.css
 
 
 == Document Statistics
