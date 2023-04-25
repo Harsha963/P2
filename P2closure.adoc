@@ -8,8 +8,6 @@ image::IITD.png[align="center", style="vertical-align: middle;"]
 :sectnums: all
 :stem: asciimath
 :stylesheet: styles.css
-:doctype: book
-:icons: font
 :revdate: 25-04-2023
 :version: 4.1
 
