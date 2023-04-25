@@ -1,0 +1,55 @@
+== Team Details
+
+.Detail of team members and their responsibilities
+[cols=">2, <7, 5a, 7a, 5a,2a",options="header",%autowidth.stretch,format=csv]
+
+|===
+
+Sl. No.,Name,Entry,Email,Designation,I.F.
+1,Shubham Kumar,2020EE30627,ee3200627@iitd.ac.in,Tribe Coordinator,1
+2,Harsha Patnala,2020MT10846,mt1200846@iitd.ac.in,Sub-Coordinator,1
+3,Harshita Badiyasar,2020MT10807,mt1200807@iitd.ac.in,Sub-Coordinator,1
+4,Hemali Priyadarshi,2020EE30597,ee3200597@iitd.ac.in,Sub-Coordinator,1
+5,Divyanshi Thaakur,2020EE11015,ee1201015@iitd.ac.in,Communications,1
+6,Anmol S,2020EE10471,ee1200471@iitd.ac.in,Research,1
+7,Bhavneek Singh,2020EE10482,ee1200482@iitd.ac.in,Research,1
+8,Dheekshith Kumar,2020MT60876,mt6200876@iitd.ac.in,Research,1
+9,Harshita Kurre,2020EE30596,ee3200596@iitd.ac.in,Research,1
+10,Kishan Kumar Jangde,2020EE10506,ee1200506@iitd.ac.in,Research,1
+11,Mannepalli Chandra Sekhar,2020MT10818,mt1200818@iitd.ac.in,Research,1
+12,Nishant Agarwal,2020MT10828,mt1200828@iitd.ac.in,Research,1
+13,Prashant Kumar,2020EE10525,ee1200525@iitd.ac.in,Research,1
+14,Prisha Jain,2020MT60886,mt6200886@iitd.ac.in,Research,1
+15,Priyansh Agrawal,2019EE30591,ee3190591@iitd.ac.in,Research,1
+16,Priyanshu Sharma,2021MT10678,mt1200678@iitd.ac.in,Research,1
+17,Rama Bharti,2020MT10834,mt1200834@iitd.ac.in,Research,1
+18,Sania Goyal,2020MT10842,mt1200842@iitd.ac.in,Research,1
+19,Sanskriti Jain,2020MT60890,mt6200890@iitd.ac.in,Research,1
+20,Sheetal,2020MT10847,mt1200847@iitd.ac.in,Research,1
+21,Srikanth R,2020EE10557,ee1200557@iitd.ac.in,Research,1
+22,Volla Jayathi,2020MT60897,mt6200897@iitd.ac.in,Research,1
+23,Yashwant Singh Kaurav,2020MT10864,mt1200864@iitd.ac.in,Research,1
+24,Kartikey Agarwal,2020EE10505,ee1200505@iitd.ac.in,Design,1
+25,Neeraj Sharma,2020MT60885,mt6200885@iitd.ac.in,Design,1
+26,Pankaj Sharma,2020EE30610,ee3200610@ee.iitd.ac.in,Design,1
+27,Saksham Singh,2020MT10841,mt1200841@iitd.ac.in,Design,1
+28,Saurabh Dudhwal,2020MT10844,mt1200844@iitd.ac.in,Design,1
+29,Sunpreet Singh,2020MT10857,mt1200857@iitd.ac.in,Design,1
+30,Harshit Goyal,2020MT10806,mt1200806@iitd.ac.in,Documentation,1
+31,Harsh Kumar,2020MT60879,mt6200879@iitd.ac.in,Documentation,1
+32,Shiva Kumar Vallala,2020MT10848,mt1200848@iitd.ac.in,Documentation,1
+33,Shivang Agarwal,2020MT10849,mt1200849@iitd.ac.in,Documentation,1
+34,Simran Malik,2020MT10854,mt1200854@iitd.ac.in,Documentation,1
+35,Varnika Bhatt,2020EE30630,ee3200630@iitd.ac.in,Review,1
+36,Aditya Agrawal,2020EE30573,ee3200573@iitd.ac.in,Ideation,0.8
+37,Ishaan Singhal,2019EE30574,ee3190574@iitd.ac.in,Ideation,0.8
+38,Jaya Teja,2020MT60874,mt6200874@iitd.ac.in,Assistance,0.8
+39,Keshav Ranjan,2020EE30602,ee3200602@iitd.ac.in,Assistance,0.8
+40,Prakash Tiwari,2020EE10524,ee1200524@iitd.ac.in,Assistance,0.6
+41,Raparthi Akshita,2020EE10538,ee1200538@iitd.ac.in,Assistance,0.8
+42,Rohit Kumar,2020MT10849,mt1200849@iitd.ac.in,Assistance,0.6
+43,Shubham Kumar,2020EE10554,ee1200554@iitd.ac.in,Assistance,0.8
+44,Subhan Akhtar,2019EE10533,ee1190533@iitd.ac.in,Assistance,1
+45,Yishuvendra Kumar Devangan,2020EE30635,ee3200635@iitd.ac.in,Assistance,0.8
+
+|===
