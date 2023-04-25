@@ -10,7 +10,7 @@ Sl. No.,Name,Entry,Email,Designation,I.F.
 2,Harsha Patnala,2020MT10846,mt1200846@iitd.ac.in,Sub-Coordinator,1
 3,Harshita Badiyasar,2020MT10807,mt1200807@iitd.ac.in,Sub-Coordinator,1
 4,Hemali Priyadarshi,2020EE30597,ee3200597@iitd.ac.in,Sub-Coordinator,1
-5,Divyanshi Thaakur,2020EE11015,ee1201015@iitd.ac.in,Communications,1
+5,Divyanshi Thaakur,2020EE11015,ee1201015@iitd.ac.in,Communication,1
 6,Anmol S,2020EE10471,ee1200471@iitd.ac.in,Research,1
 7,Bhavneek Singh,2020EE10482,ee1200482@iitd.ac.in,Research,1
 8,Dheekshith Kumar,2020MT60876,mt6200876@iitd.ac.in,Research,1
