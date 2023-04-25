@@ -1,5 +1,3 @@
-image::IITD.png[align="center", style="vertical-align: middle;"]
-
 = Tribe D: Daringbaaz | Project DoXFroY | Requirements + Specifications + Design + Closure
 :authors: Shubham Kumar, Harshita Badiyasar, Hemali Priyadarshi, Harsha Patnala
 :lang: en
