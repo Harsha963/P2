@@ -13,7 +13,7 @@
 
 == Document Details
 
-Word Count: 10215,9815,9670,
+Word Count: 9000-10000
 
 Version: 4.3
 
@@ -94,7 +94,7 @@ Sl. No.,Name,Entry,Email,Designation,I.F.
 
 === Deadlines 
 
-[cols=">2,7a,7a,7a",options="header",%autowidth.stretch,format=csv]
+[cols=">2,7a,7a",options="header",%autowidth.stretch,format=csv]
 
 |===
 
